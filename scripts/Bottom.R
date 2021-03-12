@@ -5,7 +5,7 @@ library(lubridate)
 library(stringr)
 library(here)
 
-pigraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/pig.csv", 
+pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv", 
                  col_types = cols(Index = col_number()))
 
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)

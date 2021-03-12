@@ -6,7 +6,7 @@ library(stringr)
 library(writexl)
 library(here)
 
-collraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/coll.csv")
+collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
 collraw$Col_Date<-as.Date(collraw$Col_Date)
 
 met1<-collraw %>% 

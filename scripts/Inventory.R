@@ -5,7 +5,7 @@ library(lubridate)
 library(stringr)
 library(here)
 
-pig<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/pig.csv")
+pig<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv")
 
 pig1<-pig %>% 
   filter(is.na(Date_Studout))

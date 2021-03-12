@@ -6,8 +6,8 @@ library(stringr)
 library(writexl)
 library(here)
 
-pigraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/pig.csv")
-collraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/coll.csv")
+pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv")
+collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
 
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)
 pigraw$Date_Studout<-as.Date(pigraw$Date_Studout)

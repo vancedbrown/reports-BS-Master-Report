@@ -6,7 +6,7 @@ library(here)
 
 
 library(readr)
-batchraw <- read_csv("C:/Users/vance/Documents//projects/2019/01JAN/Data Pull/batch.csv", 
+batchraw <- read_csv("C:/Users/vance/Documents//projects/Working Project Directory/data/data-SQL-BS-Data-Pull/batch.csv", 
                   col_types = cols(POST_MOT_VAL_1 = col_number(), 
                                    POST_MOT_VAL_2 = col_number(), 
                                    POST_MOT_VAL_3 = col_number(), 
@@ -14,7 +14,7 @@ batchraw <- read_csv("C:/Users/vance/Documents//projects/2019/01JAN/Data Pull/ba
                                    POST_MOT_VAL_5 = col_number(), 
                                    POST_MOT_VAL_6 = col_number()))
 
-distraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/dist.csv")
+distraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/dist.csv")
 
 distraw$Date_Shipped<-as.Date(distraw$Date_Shipped)
 

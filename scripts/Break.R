@@ -6,11 +6,11 @@ library(stringr)
 library(writexl)
 library(here)
 
-pigraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/pig.csv", 
+pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv", 
                  col_types = cols(Index = col_number()))
-collraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/coll.csv")
-distraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/dist.csv")
-splitraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/split.csv")
+collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
+distraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/dist.csv")
+splitraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/split.csv")
 
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)
 pigraw$Date_Studout<-as.Date(pigraw$Date_Studout)

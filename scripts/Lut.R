@@ -5,9 +5,9 @@ library(lubridate)
 library(here)
 
 
-pigraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/pig.csv")
-collraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/coll.csv")
-trtraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/trt.csv")
+pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv")
+collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
+trtraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/trt.csv")
 
 collraw$Col_Date<-as.Date(collraw$Col_Date)
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)

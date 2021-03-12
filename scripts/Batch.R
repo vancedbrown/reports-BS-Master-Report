@@ -6,8 +6,8 @@ library(stringr)
 library(writexl)
 library(here)
 
-distraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/dist.csv")
-splitraw<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/split.csv")
+distraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/dist.csv")
+splitraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/split.csv")
 
 distraw$Date_Shipped<-as.Date(distraw$Date_Shipped)
 splitraw$Collnum<-as.numeric(splitraw$Collnum)
