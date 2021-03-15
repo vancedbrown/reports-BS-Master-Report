@@ -165,9 +165,9 @@ df_score=df_out %>%
   mutate(Comb_score = round((AVG_CB_score + SD_CBill_score + AVG_NM_score + min_NM_score + pct_B_score)*1.0,2))
 
 
-card0<-read_csv(here::here("inputs","months.csv"))
+card0<-read_csv('C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-BS-Master-Report/inputs/months.csv')
 card1<-left_join(x = df_score,y = card0,by=c("Year_week"="Week"))
-write_csv(x = card1, path = here::here("data","scarddata.csv"),append = FALSE)
+write_csv(x = card1, path = 'C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-BS-Master-Report/data/scarddata.csv',append = FALSE)
 
 #######################################
 
@@ -196,6 +196,6 @@ card7<-card6 %>%
   filter(StudNum%in%c(1:16,21:23))
 
 
-write_csv(x = card7,path = here::here("data","scard.csv"),append = FALSE)
+write_csv(x = card7,path = 'C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-BS-Master-Report/scard.csv',append = FALSE)
 
 

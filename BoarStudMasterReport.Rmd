@@ -1,11 +1,12 @@
 ---
 title: ""
 output: 
-  html_document:
+  html_document: 
     theme: sandstone
-    toc: true
+    toc: yes
     toc_depth: 1
-    toc_float: true
+    toc_float: yes
+    keep_md: yes
 ---
 <style type="text/css">
 .main-container {
@@ -34,7 +35,7 @@ library(kableExtra)
 # source(here::here("scripts","14day.R"))
 # source(here::here("scripts","Batch.R"))
 # source(here::here("scripts","Break.R"))
-# source(here::here("scripts","Contingency.R"))
+# # source(here::here("scripts","Contingency.R"))
 # source(here::here("scripts","Distribution.R"))
 # # source(here::here("scripts","Indextrend.R"))
 # source(here::here("scripts","Inventory.R"))
@@ -53,7 +54,7 @@ library(kableExtra)
 # source(here::here("scripts","Cond.R"))
 # source(here::here("scripts","hours.R"))
 # source(here::here("scripts","mort2.R"))
-
+# 
 # source(here::here("scripts","PCard.R"))
 # source(here::here("scripts","GCard.R"))
 # source(here::here("scripts","scorecard.R"))

@@ -4464,3 +4464,458 @@ Employee Home Business Unit,Employee Home Business Unit Desc.,Employee Number,Em
 70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),2/7/2021,1,Regular,90.82,Hourly
 70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),2/7/2021,35,Prsnl Hol,9.6,Hourly
 70640,Farm 70640-AI,3304001,Boar Stud Mgr.,2/7/2021,1,Regular,80,Salaried
+2874,AI Lab-Cyclone 2874,787767,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+2874,AI Lab-Cyclone 2874,3313735,Asst. Sow Farm Mgr. 1,2/21/2021,1,Regular,72,Salaried
+2874,AI Lab-Cyclone 2874,3313735,Asst. Sow Farm Mgr. 1,2/21/2021,30,Holiday,8,Salaried
+2874,AI Lab-Cyclone 2874,3313736,Herdsperson 3 (Hourly),2/21/2021,1,Regular,43.72,Hourly
+2874,AI Lab-Cyclone 2874,3313736,Herdsperson 3 (Hourly),2/21/2021,35,Prsnl Hol,16,Hourly
+2874,AI Lab-Cyclone 2874,3313736,Herdsperson 3 (Hourly),2/21/2021,99,PTO,24,Hourly
+2874,AI Lab-Cyclone 2874,3313897,AI Courier,2/21/2021,1,Regular,42.88,Hourly
+2874,AI Lab-Cyclone 2874,3344620,Herdsperson 3 (Hourly),2/21/2021,1,Regular,85.37,Hourly
+2874,AI Lab-Cyclone 2874,3344621,Herdsperson 3 (Hourly),2/21/2021,1,Regular,92.15,Hourly
+2874,AI Lab-Cyclone 2874,3361883,Herdsperson 3 (Hourly),2/21/2021,1,Regular,82.9,Hourly
+2874,AI Lab-Cyclone 2874,3361883,Herdsperson 3 (Hourly),2/21/2021,4,Non-Worked,1.18,Hourly
+3470,AI Lab-Cimarron 3470,788267,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+3470,AI Lab-Cimarron 3470,985941,Herdsperson 4 (Hourly),2/21/2021,1,Regular,84.22,Hourly
+3470,AI Lab-Cimarron 3470,985941,Herdsperson 4 (Hourly),2/21/2021,11,Shift Diff,3.33,Hourly
+3470,AI Lab-Cimarron 3470,1168597,Herdsperson 4 (Hourly),2/21/2021,1,Regular,114.18,Hourly
+3470,AI Lab-Cimarron 3470,1168597,Herdsperson 4 (Hourly),2/21/2021,4,Non-Worked,15.98,Hourly
+3470,AI Lab-Cimarron 3470,1168597,Herdsperson 4 (Hourly),2/21/2021,11,Shift Diff,3.18,Hourly
+3470,AI Lab-Cimarron 3470,3310837,Herdsperson 4 (Hourly),2/21/2021,1,Regular,102.4,Hourly
+3470,AI Lab-Cimarron 3470,3310837,Herdsperson 4 (Hourly),2/21/2021,4,Non-Worked,16.51,Hourly
+3470,AI Lab-Cimarron 3470,3310837,Herdsperson 4 (Hourly),2/21/2021,11,Shift Diff,5.07,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),2/21/2021,1,Regular,94.08,Hourly
+3470,AI Lab-Cimarron 3470,3361502,AI Courier,2/21/2021,1,Regular,36.02,Hourly
+3470,AI Lab-Cimarron 3470,3362460,Herdsperson 1 (Hourly),2/21/2021,1,Regular,2,Hourly
+7068,Farm 7068-AI,791747,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+7068,Farm 7068-AI,1048903,Assistant Boar Stud Manager,2/21/2021,1,Regular,83.4,Salaried
+7068,Farm 7068-AI,1048903,Assistant Boar Stud Manager,2/21/2021,30,Holiday,9.6,Salaried
+7068,Farm 7068-AI,1048903,Assistant Boar Stud Manager,2/21/2021,99,PTO,3,Salaried
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),2/21/2021,1,Regular,94.52,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),2/21/2021,1,Regular,70,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),2/21/2021,99,PTO,6,Hourly
+7068,Farm 7068-AI,2199393,Herdsperson 4 (Hourly),2/21/2021,1,Regular,77.07,Hourly
+7068,Farm 7068-AI,2199393,Herdsperson 4 (Hourly),2/21/2021,35,Prsnl Hol,9.6,Hourly
+7069,Farm 7069-AI,797573,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,86.4,Salaried
+7069,Farm 7069-AI,797573,Boar Stud HOD 1 (Salaried),2/21/2021,30,Holiday,9.6,Salaried
+7069,Farm 7069-AI,3310840,Assistant Boar Stud Manager,2/21/2021,1,Regular,72.8,Salaried
+7069,Farm 7069-AI,3310840,Assistant Boar Stud Manager,2/21/2021,30,Holiday,19.2,Salaried
+7069,Farm 7069-AI,3310840,Assistant Boar Stud Manager,2/21/2021,99,PTO,4,Salaried
+7069,Farm 7069-AI,3321432,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+7069,Farm 7069-AI,3349479,Production Mgr Trainee 2 Certf,2/21/2021,1,Regular,-96,Salaried
+7069,Farm 7069-AI,3349479,Production Mgr Trainee 2 Certf,2/21/2021,1,Regular,96,Salaried
+7069,Farm 7069-AI,3349479,Production Mgr Trainee 2 Certf,2/21/2021,1,Regular,96,Salaried
+7081,Deercroft Boar Stud,337578,Herdsperson 4 (Hourly),2/21/2021,1,Regular,100.23,Hourly
+7081,Deercroft Boar Stud,337578,Herdsperson 4 (Hourly),2/21/2021,99,PTO,19.2,Hourly
+7081,Deercroft Boar Stud,700875,Boar Stud Mgr.,2/21/2021,1,Regular,56,Salaried
+7081,Deercroft Boar Stud,700875,Boar Stud Mgr.,2/21/2021,30,Holiday,16,Salaried
+7081,Deercroft Boar Stud,700875,Boar Stud Mgr.,2/21/2021,35,Prsnl Hol,8,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,,Salaried
+7081,Deercroft Boar Stud,3315133,Herdsperson 4 (Hourly),2/21/2021,1,Regular,64.5,Hourly
+7081,Deercroft Boar Stud,3315133,Herdsperson 4 (Hourly),2/21/2021,4,Non-Worked,40,Hourly
+7081,Deercroft Boar Stud,3301178,Herdsperson 1 (Hourly),2/21/2021,1,Regular,92.62,Hourly
+7082,Laurel Hill Boar Stud,38447,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,96,Salaried
+7082,Laurel Hill Boar Stud,67168,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+7082,Laurel Hill Boar Stud,738304,Herdsperson 4 (Hourly),2/21/2021,1,Regular,87.47,Hourly
+7082,Laurel Hill Boar Stud,738304,Herdsperson 4 (Hourly),2/21/2021,99,PTO,3,Hourly
+7082,Laurel Hill Boar Stud,2269229,Herdsperson 4 (Hourly),2/21/2021,1,Regular,85.27,Hourly
+7082,Laurel Hill Boar Stud,2269229,Herdsperson 4 (Hourly),2/21/2021,99,PTO,10,Hourly
+7082,Laurel Hill Boar Stud,3346720,Herdsperson 2 (Hourly),2/21/2021,1,Regular,87.28,Hourly
+7092,Askin Boar Stud,689291,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,96,Salaried
+7092,Askin Boar Stud,714927,Boar Stud Mgr.,2/21/2021,1,Regular,72,Salaried
+7092,Askin Boar Stud,714927,Boar Stud Mgr.,2/21/2021,30,Holiday,8,Salaried
+7092,Askin Boar Stud,1165047,Production Mgr Trainee 1 Certf,2/21/2021,1,Regular,108.73,Hourly
+7092,Askin Boar Stud,1165047,Production Mgr Trainee 1 Certf,2/21/2021,99,PTO,10,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),2/21/2021,1,Regular,106.75,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),2/21/2021,99,PTO,3.5,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),2/21/2021,1,Regular,112.7,Hourly
+7092,Askin Boar Stud,3309541,Herdsperson 4 (Hourly),2/21/2021,1,Regular,112.83,Hourly
+7092,Askin Boar Stud,3309541,Herdsperson 4 (Hourly),2/21/2021,31,Holiday-adtl,9.6,Hourly
+7092,Askin Boar Stud,3357365,Herdsperson Trainee/Laborer,2/21/2021,1,Regular,106.12,Hourly
+7092,Askin Boar Stud,3360380,Production Mgr Trainee 2,2/21/2021,1,Regular,57.6,Salaried
+7093,Martin County Boar Stud,903716,Herdsperson 4 (Hourly),2/21/2021,1,Regular,90.42,Hourly
+7093,Martin County Boar Stud,935746,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+7093,Martin County Boar Stud,1226601,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,86.4,Salaried
+7093,Martin County Boar Stud,1226601,Boar Stud HOD 1 (Salaried),2/21/2021,30,Holiday,9.6,Salaried
+7093,Martin County Boar Stud,1839253,Herdsperson 4 (Hourly),2/21/2021,1,Regular,97.93,Hourly
+7093,Martin County Boar Stud,2099936,Herdsperson 4 (Hourly),2/21/2021,1,Regular,98.05,Hourly
+7093,Martin County Boar Stud,3306937,Production Mgr Trainee 1 Certf,2/21/2021,1,Regular,98.38,Hourly
+7093,Martin County Boar Stud,3310111,Production Mgr Trainee 1 Certf,2/21/2021,1,Regular,98.4,Hourly
+7093,Martin County Boar Stud,3311229,Herdsperson 2 (Hourly),2/21/2021,1,Regular,98.07,Hourly
+7093,Martin County Boar Stud,3337191,Herdsperson 2 (Hourly),2/21/2021,1,Regular,95.48,Hourly
+7093,Martin County Boar Stud,3345465,Herdsperson 2 (Hourly),2/21/2021,1,Regular,91.45,Hourly
+7094,Robersonville Boar Stud,1207316,Boar Stud Mgr.,2/21/2021,1,Regular,80,Salaried
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),2/21/2021,1,Regular,95.18,Hourly
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),2/21/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,1287467,Herdsperson 4 (Hourly),2/21/2021,1,Regular,100.93,Hourly
+7094,Robersonville Boar Stud,1290639,Herdsperson 4 (Hourly),2/21/2021,1,Regular,101.03,Hourly
+7094,Robersonville Boar Stud,1349171,Boar Stud HOD 1 (Salaried),2/21/2021,1,Regular,67.2,Salaried
+7094,Robersonville Boar Stud,1349171,Boar Stud HOD 1 (Salaried),2/21/2021,35,Prsnl Hol,9.6,Salaried
+7094,Robersonville Boar Stud,1349171,Boar Stud HOD 1 (Salaried),2/21/2021,99,PTO,19.2,Salaried
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),2/21/2021,1,Regular,100.03,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),2/21/2021,35,Prsnl Hol,9.6,Hourly
+7094,Robersonville Boar Stud,3295314,Production Mgr Trainee 2 Certf,2/21/2021,1,Regular,96,Salaried
+7094,Robersonville Boar Stud,3311803,Herdsperson 4 (Hourly),2/21/2021,1,Regular,93.68,Hourly
+7094,Robersonville Boar Stud,3311803,Herdsperson 4 (Hourly),2/21/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,3358857,Herdsperson Trainee/Laborer,2/21/2021,1,Regular,112.88,Hourly
+8230,GIF-Boar Stud,1069477,Boar Stud Mgr.,2/21/2021,1,Regular,72,Salaried
+8230,GIF-Boar Stud,1069477,Boar Stud Mgr.,2/21/2021,30,Holiday,8,Salaried
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),2/21/2021,1,Regular,84.35,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),2/21/2021,12,Premium,13.07,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),2/21/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),2/21/2021,1,Regular,81.52,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),2/21/2021,12,Premium,17.48,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),2/21/2021,35,Prsnl Hol,9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),2/21/2021,1,Regular,93.82,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),2/21/2021,12,Premium,19.07,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),2/21/2021,1,Regular,101.82,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),2/21/2021,12,Premium,27.08,Hourly
+8230,GIF-Boar Stud,1333002,Boar Stud HOD 1 (Hourly),2/21/2021,1,Regular,,Hourly
+8230,GIF-Boar Stud,1725042,Production Mgr Trainee 2 HOD,2/21/2021,1,Regular,80,Salaried
+8230,GIF-Boar Stud,2121839,AI Courier,2/21/2021,1,Regular,52.68,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,2/21/2021,1,Regular,95,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,2/21/2021,12,Premium,18.33,Hourly
+8230,GIF-Boar Stud,3298432,Herdsperson 3 (Hourly),2/21/2021,1,Regular,45.33,Hourly
+49170,Boar Stud  49170,789507,Boar Stud Mgr.,2/21/2021,1,Regular,40,Salaried
+49170,Boar Stud  49170,789507,Boar Stud Mgr.,2/21/2021,30,Holiday,8,Salaried
+49170,Boar Stud  49170,789507,Boar Stud Mgr.,2/21/2021,99,PTO,32,Salaried
+49170,Boar Stud  49170,789809,Herdsperson 4 (Hourly),2/21/2021,1,Regular,88.95,Hourly
+49170,Boar Stud  49170,910181,Herdsperson 4 (Hourly),2/21/2021,1,Regular,76.27,Hourly
+49170,Boar Stud  49170,910181,Herdsperson 4 (Hourly),2/21/2021,99,PTO,18,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,2/21/2021,1,Regular,84.2,Hourly
+49170,Boar Stud  49170,1291319,Assistant Boar Stud Manager,2/21/2021,1,Regular,90,Salaried
+49170,Boar Stud  49170,2107647,Production Mgr Trainee 1 Certf,2/21/2021,1,Regular,87.58,Hourly
+49370,High Desert Boar Stud,3301684,Sow Farm Manager 3,2/21/2021,1,Regular,80,Salaried
+49370,High Desert Boar Stud,3301689,Herdsperson Trainee/Laborer,2/21/2021,1,Regular,90.67,Hourly
+49370,High Desert Boar Stud,3301689,Herdsperson Trainee/Laborer,2/21/2021,35,Prsnl Hol,9,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,2/21/2021,1,Regular,78.13,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,2/21/2021,35,Prsnl Hol,9,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,2/21/2021,99,PTO,9,Hourly
+49770,Colorado Boar Stud,954835,Boar Stud Mgr.,2/21/2021,1,Regular,72,Salaried
+49770,Colorado Boar Stud,954835,Boar Stud Mgr.,2/21/2021,30,Holiday,8,Salaried
+49770,Colorado Boar Stud,1410558,AI Courier,2/21/2021,1,Regular,28.8,Hourly
+49770,Colorado Boar Stud,1501451,Assistant Boar Stud Manager,2/21/2021,1,Regular,80,Salaried
+49770,Colorado Boar Stud,1938582,Herdsperson 3 (Hourly),2/21/2021,1,Regular,68.55,Hourly
+49770,Colorado Boar Stud,1938582,Herdsperson 3 (Hourly),2/21/2021,30,Holiday,8,Hourly
+49770,Colorado Boar Stud,3289266,Production Mgr Trainee 1,2/21/2021,1,Regular,78.3,Hourly
+70640,Farm 70640-AI,906806,Herdsperson 3 (Hourly),2/21/2021,1,Regular,100.85,Hourly
+70640,Farm 70640-AI,999886,Herdsperson 3 (Hourly),2/21/2021,1,Regular,83,Hourly
+70640,Farm 70640-AI,999886,Herdsperson 3 (Hourly),2/21/2021,99,PTO,7,Hourly
+70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),2/21/2021,1,Regular,92.98,Hourly
+70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),2/21/2021,99,PTO,9.6,Hourly
+70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),2/26/2021,554,Referral Bns,,Hourly
+70640,Farm 70640-AI,3304001,Nursery/Finishing HOD 2,2/21/2021,1,Regular,59.33,Hourly
+70640,Farm 70640-AI,3304001,Nursery/Finishing HOD 2,2/21/2021,35,Prsnl Hol,16,Hourly
+2874,AI Lab-Cyclone 2874,787767,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+2874,AI Lab-Cyclone 2874,3313735,Asst. Sow Farm Mgr. 1,3/7/2021,1,Regular,72,Salaried
+2874,AI Lab-Cyclone 2874,3313735,Asst. Sow Farm Mgr. 1,3/7/2021,35,Prsnl Hol,8,Salaried
+2874,AI Lab-Cyclone 2874,3313736,Herdsperson 3 (Hourly),3/7/2021,1,Regular,93.63,Hourly
+2874,AI Lab-Cyclone 2874,3313897,AI Courier,3/7/2021,1,Regular,41.73,Hourly
+2874,AI Lab-Cyclone 2874,3344620,Herdsperson 3 (Hourly),3/7/2021,1,Regular,78.85,Hourly
+2874,AI Lab-Cyclone 2874,3344620,Herdsperson 3 (Hourly),3/7/2021,35,Prsnl Hol,10,Hourly
+2874,AI Lab-Cyclone 2874,3344621,Herdsperson 3 (Hourly),3/7/2021,1,Regular,65.98,Hourly
+2874,AI Lab-Cyclone 2874,3344621,Herdsperson 3 (Hourly),3/7/2021,35,Prsnl Hol,20,Hourly
+2874,AI Lab-Cyclone 2874,3361883,Herdsperson 3 (Hourly),3/7/2021,1,Regular,93.65,Hourly
+3470,AI Lab-Cimarron 3470,788267,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+3470,AI Lab-Cimarron 3470,985941,Herdsperson 4 (Hourly),3/7/2021,1,Regular,91.1,Hourly
+3470,AI Lab-Cimarron 3470,1168597,Herdsperson 4 (Hourly),3/7/2021,1,Regular,106.95,Hourly
+3470,AI Lab-Cimarron 3470,3310837,Herdsperson 4 (Hourly),3/7/2021,1,Regular,92.68,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,1,Regular,101.35,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,17.46,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-17.46,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,8.73,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-17.46,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,17.46,Hourly
+3470,AI Lab-Cimarron 3470,3319059,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-8.73,Hourly
+3470,AI Lab-Cimarron 3470,3361502,AI Courier,3/7/2021,1,Regular,35.85,Hourly
+3470,AI Lab-Cimarron 3470,3362460,Herdsperson 1 (Hourly),3/7/2021,1,Regular,42.5,Hourly
+7068,Farm 7068-AI,791747,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7068,Farm 7068-AI,1048903,Assistant Boar Stud Manager,3/7/2021,1,Regular,96,Salaried
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),3/7/2021,1,Regular,97.08,Hourly
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9.6,Hourly
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),3/7/2021,99,PTO,2,Hourly
+7068,Farm 7068-AI,1365358,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-2,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,1,Regular,93.23,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9.6,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9.6,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-10,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7068,Farm 7068-AI,1016880,Herdsperson 4 (Hourly),3/7/2021,99,PTO,10,Hourly
+7068,Farm 7068-AI,2199393,Herdsperson 4 (Hourly),3/7/2021,1,Regular,93.35,Hourly
+7069,Farm 7069-AI,797573,Boar Stud HOD 1 (Salaried),3/7/2021,1,Regular,57.6,Salaried
+7069,Farm 7069-AI,797573,Boar Stud HOD 1 (Salaried),3/7/2021,30,Holiday,38.4,Salaried
+7069,Farm 7069-AI,3310840,Assistant Boar Stud Manager,3/7/2021,1,Regular,96,Salaried
+7069,Farm 7069-AI,3321432,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7069,Farm 7069-AI,3349479,Production Mgr Trainee 2 Certf,3/7/2021,1,Regular,96,Salaried
+7081,Deercroft Boar Stud,337578,Herdsperson 4 (Hourly),3/7/2021,1,Regular,95.77,Hourly
+7081,Deercroft Boar Stud,337578,Herdsperson 4 (Hourly),3/7/2021,99,PTO,28.8,Hourly
+7081,Deercroft Boar Stud,700875,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),3/7/2021,450,Disability,,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),3/7/2021,450,Disability,,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),3/7/2021,450,Disability,,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),3/7/2021,450,Disability,,Salaried
+7081,Deercroft Boar Stud,1896603,Boar Stud HOD 1 (Salaried),3/7/2021,450,Disability,,Salaried
+7081,Deercroft Boar Stud,3315133,Herdsperson 4 (Hourly),3/7/2021,1,Regular,93.87,Hourly
+7081,Deercroft Boar Stud,3301178,Herdsperson 1 (Hourly),3/7/2021,1,Regular,89.2,Hourly
+7082,Laurel Hill Boar Stud,38447,Boar Stud HOD 1 (Salaried),3/7/2021,1,Regular,96,Salaried
+7082,Laurel Hill Boar Stud,67168,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7082,Laurel Hill Boar Stud,738304,Herdsperson 4 (Hourly),3/7/2021,1,Regular,86.92,Hourly
+7082,Laurel Hill Boar Stud,738304,Herdsperson 4 (Hourly),3/7/2021,99,PTO,4,Hourly
+7082,Laurel Hill Boar Stud,2269229,Herdsperson 4 (Hourly),3/7/2021,1,Regular,90.78,Hourly
+7082,Laurel Hill Boar Stud,3346720,Herdsperson 2 (Hourly),3/7/2021,1,Regular,93.8,Hourly
+7092,Askin Boar Stud,689291,Boar Stud HOD 1 (Salaried),3/7/2021,1,Regular,96,Salaried
+7092,Askin Boar Stud,714927,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7092,Askin Boar Stud,1165047,Production Mgr Trainee 1 Certf,3/7/2021,1,Regular,119.08,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,1,Regular,113.68,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,27.48,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-27.48,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-28.8,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,28.8,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-19.2,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,19.2,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,38.4,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-61.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,61.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,12.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-38.4,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-12.6,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-19.2,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,19.2,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-19.2,Hourly
+7092,Askin Boar Stud,2117110,Herdsperson 4 (Hourly),3/7/2021,99,PTO,19.2,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,1,Regular,113.13,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-38.4,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,38.4,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,9.6,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-9.6,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-19.2,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-28.8,Hourly
+7092,Askin Boar Stud,2141681,Herdsperson 4 (Hourly),3/7/2021,99,PTO,19.2,Hourly
+7092,Askin Boar Stud,3309541,Herdsperson 4 (Hourly),3/7/2021,1,Regular,110.8,Hourly
+7092,Askin Boar Stud,3357365,Herdsperson Trainee/Laborer,3/7/2021,1,Regular,114.07,Hourly
+7092,Askin Boar Stud,3360380,Production Mgr Trainee 2,3/7/2021,1,Regular,96,Salaried
+7093,Martin County Boar Stud,903716,Herdsperson 4 (Hourly),3/7/2021,1,Regular,99.97,Hourly
+7093,Martin County Boar Stud,935746,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7093,Martin County Boar Stud,1226601,Boar Stud HOD 1 (Salaried),3/7/2021,1,Regular,96,Salaried
+7093,Martin County Boar Stud,1839253,Herdsperson 4 (Hourly),3/7/2021,1,Regular,94.77,Hourly
+7093,Martin County Boar Stud,1839253,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7093,Martin County Boar Stud,2099936,Herdsperson 4 (Hourly),3/7/2021,1,Regular,106.8,Hourly
+7093,Martin County Boar Stud,3306937,Production Mgr Trainee 1 Certf,3/7/2021,1,Regular,98.03,Hourly
+7093,Martin County Boar Stud,3310111,Production Mgr Trainee 1 Certf,3/7/2021,1,Regular,98.02,Hourly
+7093,Martin County Boar Stud,3311229,Herdsperson 3 (Hourly),3/7/2021,1,Regular,88.8,Hourly
+7093,Martin County Boar Stud,3311229,Herdsperson 3 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7093,Martin County Boar Stud,3337191,Herdsperson 3 (Hourly),3/7/2021,1,Regular,82.08,Hourly
+7093,Martin County Boar Stud,3337191,Herdsperson 3 (Hourly),3/7/2021,30,Holiday,9.6,Hourly
+7093,Martin County Boar Stud,3345465,Herdsperson 3 (Hourly),3/7/2021,1,Regular,56.22,Hourly
+7093,Martin County Boar Stud,3345465,Herdsperson 3 (Hourly),3/7/2021,35,Prsnl Hol,9.6,Hourly
+7093,Martin County Boar Stud,3345465,Herdsperson 3 (Hourly),3/7/2021,40,Bereavement,27,Hourly
+7094,Robersonville Boar Stud,1207316,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),3/7/2021,1,Regular,99.55,Hourly
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-19.2,Hourly
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,19.2,Hourly
+7094,Robersonville Boar Stud,1216536,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,1287467,Herdsperson 4 (Hourly),3/7/2021,1,Regular,68.83,Hourly
+7094,Robersonville Boar Stud,1287467,Herdsperson 4 (Hourly),3/7/2021,99,PTO,28.8,Hourly
+7094,Robersonville Boar Stud,1290639,Herdsperson 4 (Hourly),3/7/2021,1,Regular,68.7,Hourly
+7094,Robersonville Boar Stud,1290639,Herdsperson 4 (Hourly),3/7/2021,99,PTO,32.8,Hourly
+7094,Robersonville Boar Stud,1349171,Boar Stud HOD 1 (Salaried),3/7/2021,1,Regular,96,Salaried
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,1,Regular,91.7,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-19.2,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,19.2,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-19.2,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,19.2,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,-9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,31,Holiday-adtl,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,40,Bereavement,28.8,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,40,Bereavement,-28.8,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,19.2,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+7094,Robersonville Boar Stud,1343023,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-19.2,Hourly
+7094,Robersonville Boar Stud,3295314,Production Mgr Trainee 2 Certf,3/7/2021,1,Regular,87,Salaried
+7094,Robersonville Boar Stud,3295314,Production Mgr Trainee 2 Certf,3/7/2021,99,PTO,9,Salaried
+7094,Robersonville Boar Stud,3311803,Herdsperson 4 (Hourly),3/7/2021,1,Regular,106.58,Hourly
+7094,Robersonville Boar Stud,3358857,Herdsperson Trainee/Laborer,3/7/2021,1,Regular,98.3,Hourly
+8230,GIF-Boar Stud,1069477,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,1,Regular,77.95,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,12,Premium,14.88,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,36,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-36,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,45,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-45,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,18,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,3,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,36,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-36,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,1.55,Hourly
+8230,GIF-Boar Stud,1168543,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,-1.55,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-64,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-64,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,64,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,90,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-90,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-80,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,90,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,64,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-90,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,153,Hourly
+8230,GIF-Boar Stud,1168643,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,-153,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,1,Regular,88.25,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-48,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,48,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,-8,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,4,Non-Worked,8,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,12,Premium,17.88,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-18,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,99,PTO,18,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,135,Hourly
+8230,GIF-Boar Stud,1172465,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,-135,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,1,Regular,80.42,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,12,Premium,17.65,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,-9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,35,Prsnl Hol,9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,-165,Hourly
+8230,GIF-Boar Stud,1173067,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,165,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,1,Regular,92.68,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,12,Premium,18.65,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,-18,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,99,PTO,45,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,99,PTO,54,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-54,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,99,PTO,-45,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,-34.63,Hourly
+8230,GIF-Boar Stud,1259599,Herdsperson 4 (Hourly),3/7/2021,251,PTO-Cashout,34.63,Hourly
+8230,GIF-Boar Stud,1333002,Boar Stud HOD 1 (Hourly),3/7/2021,1,Regular,,Hourly
+8230,GIF-Boar Stud,1725042,Production Mgr Trainee 2 HOD,3/7/2021,1,Regular,72,Salaried
+8230,GIF-Boar Stud,1725042,Production Mgr Trainee 2 HOD,3/7/2021,30,Holiday,8,Salaried
+8230,GIF-Boar Stud,2121839,AI Courier,3/7/2021,1,Regular,42.6,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,1,Regular,82.62,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,12,Premium,17.85,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,30,Holiday,-9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,30,Holiday,9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,30,Holiday,9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,36,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,-36,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,-9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,27,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,-9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,99,PTO,-27,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,251,PTO-Cashout,9,Hourly
+8230,GIF-Boar Stud,3289262,Production Mgr Trainee 1 HOD,3/7/2021,251,PTO-Cashout,-9,Hourly
+8230,GIF-Boar Stud,3298432,Herdsperson 3 (Hourly),3/7/2021,1,Regular,62.5,Hourly
+49170,Boar Stud  49170,789507,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+49170,Boar Stud  49170,789809,Herdsperson 4 (Hourly),3/7/2021,1,Regular,79.4,Hourly
+49170,Boar Stud  49170,789809,Herdsperson 4 (Hourly),3/7/2021,30,Holiday,18,Hourly
+49170,Boar Stud  49170,910181,Herdsperson 4 (Hourly),3/7/2021,1,Regular,80.67,Hourly
+49170,Boar Stud  49170,910181,Herdsperson 4 (Hourly),3/7/2021,99,PTO,9,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,1,Regular,89.12,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,18,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,-18,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,-9,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,9,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,-18,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,30,Holiday,18,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,35,Prsnl Hol,9,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,99,PTO,27,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,99,PTO,36,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,99,PTO,-27,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,99,PTO,-36,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,251,PTO-Cashout,16.16,Hourly
+49170,Boar Stud  49170,1205028,Production Mgr Trainee 1 Certf,3/7/2021,251,PTO-Cashout,-16.16,Hourly
+49170,Boar Stud  49170,1291319,Assistant Boar Stud Manager,3/7/2021,1,Regular,90,Salaried
+49170,Boar Stud  49170,2107647,Production Mgr Trainee 1 Certf,3/7/2021,1,Regular,86.8,Hourly
+49170,Boar Stud  49170,2107647,Production Mgr Trainee 1 Certf,3/7/2021,4,Non-Worked,9,Hourly
+49370,High Desert Boar Stud,3301684,Sow Farm Manager 3,3/7/2021,1,Regular,80,Salaried
+49370,High Desert Boar Stud,3301689,Herdsperson Trainee/Laborer,3/7/2021,1,Regular,98.42,Hourly
+49370,High Desert Boar Stud,3301689,Herdsperson Trainee/Laborer,3/7/2021,99,PTO,9,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,3/7/2021,1,Regular,57.17,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,3/7/2021,4,Non-Worked,16,Hourly
+49370,High Desert Boar Stud,3326464,Herdsperson Trainee/Laborer,3/7/2021,99,PTO,9,Hourly
+49370,High Desert Boar Stud,3363670,Herdsperson Trainee/Laborer,3/7/2021,1,Regular,36.5,Hourly
+49770,Colorado Boar Stud,954835,Boar Stud Mgr.,3/7/2021,1,Regular,80,Salaried
+49770,Colorado Boar Stud,1410558,AI Courier,3/7/2021,1,Regular,28.93,Hourly
+49770,Colorado Boar Stud,1501451,Assistant Boar Stud Manager,3/7/2021,1,Regular,48,Salaried
+49770,Colorado Boar Stud,1501451,Assistant Boar Stud Manager,3/7/2021,4,Non-Worked,32,Salaried
+49770,Colorado Boar Stud,1938582,Herdsperson 3 (Hourly),3/7/2021,1,Regular,74.95,Hourly
+49770,Colorado Boar Stud,1938582,Herdsperson 3 (Hourly),3/7/2021,30,Holiday,8,Hourly
+49770,Colorado Boar Stud,3289266,Production Mgr Trainee 1,3/7/2021,1,Regular,69.68,Hourly
+49770,Colorado Boar Stud,3289266,Production Mgr Trainee 1,3/7/2021,30,Holiday,8,Hourly
+49770,Colorado Boar Stud,3289266,Production Mgr Trainee 1,3/7/2021,35,Prsnl Hol,8,Hourly
+70640,Farm 70640-AI,906806,Herdsperson 3 (Hourly),3/7/2021,1,Regular,108.63,Hourly
+70640,Farm 70640-AI,999886,Herdsperson 3 (Hourly),3/7/2021,1,Regular,113.73,Hourly
+70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),3/7/2021,1,Regular,89.72,Hourly
+70640,Farm 70640-AI,1248788,Herdsperson 3 (Hourly),3/7/2021,99,PTO,9.6,Hourly
+70640,Farm 70640-AI,3304001,Nursery/Finishing HOD 2,3/7/2021,1,Regular,99,Hourly

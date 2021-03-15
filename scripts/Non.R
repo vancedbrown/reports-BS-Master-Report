@@ -40,7 +40,7 @@ pig <- "SELECT [StudID] AS 'Boar Stud'
 FROM [Intranet].[dbo].[Boar_Pig]"
 non1 <- getSQL('Intranet',query=pig)
 
-collraw<-read_csv("C:/Users/vance/Documents/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
+collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
 collraw$Col_Date<-as.Date(collraw$Col_Date)
 
 non2<-non1 %>% 

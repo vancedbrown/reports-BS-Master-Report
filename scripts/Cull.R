@@ -6,7 +6,7 @@ library(stringr)
 library(writexl)
 library(here)
 
-pigraw<-read_csv("C:/Users/vance/Documents/projects/2019/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv", 
+pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv", 
                  col_types = cols(Index = col_number()))
 
 lookraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/look.csv")
