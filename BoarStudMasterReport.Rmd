@@ -227,7 +227,7 @@ kbl(gscorecard3) %>%
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 #------------------------------Table 1---------------------#
 
-table1a<-read_csv("C:/Users/vance/Documents/projects/2019/01JAN/Data Pull/dates.csv")
+table1a<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/dates.csv")
 table1b <- read_csv(here::here("data","inventoryex.csv"))
 table1c <- read_csv(here::here("data","dist1.csv"))
 

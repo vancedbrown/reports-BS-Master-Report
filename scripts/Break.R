@@ -58,7 +58,7 @@ break11<-break11[order(break11$BoarID,break11$`Collection Status`, break11$Distr
 
 break12<-break11 %>%
   group_by(BoarID) %>% 
-  mutate(dr=row_number(`Collection Status`),
+  mutate(dr=row_number(Distributed),
          count=rowsum(dr,group = BoarID))
 
 break13<-break12 %>% 

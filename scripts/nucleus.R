@@ -168,9 +168,13 @@ nuc11b<-left_join(x = nuc11a,y = alloc1,by=c("Boar Stud"="Boar Stud","BoarID"="T
 
 write_csv(x = nuc11b, path = here::here("data","nucleus.csv"),append = FALSE)
 
+nuc11b$`Collection Status`<- as.factor(nuc11b$`Collection Status`)
+
+nuc11b<-nuc11b[order(nuc11b$BoarID,nuc11b$Distributed,-xtfrm(nuc11b$`Collection Status`)),]
+
 nuc12<-nuc11b %>%
   group_by(BoarID) %>% 
-  mutate(dr=row_number(Col_Date),
+  mutate(dr=row_number(),
          count=rowsum(dr,group = BoarID))
 
 nuc13<-nuc12 %>% 
