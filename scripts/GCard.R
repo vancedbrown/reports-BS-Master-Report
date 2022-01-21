@@ -28,7 +28,7 @@ gcard00$WeekCommencing<-as.Date(gcard00$WeekCommencing)
 gcard00$yrwk<-(year((gcard00$WeekCommencing)+5)*100)+isoweek((gcard00$WeekCommencing)+5)
 
 gcard2a<-gcard2 %>% 
-  filter(!`Boar Stud`%in%c('SPGNC','SPGVA','SPGTX', 'MB 7092','High Desert'))
+  filter(!`Boar Stud`%in%c('SPGNC','SPGVA','SPGTX','High Desert'))
 
 gcard2b<-rbind(gcard2a,gcard0,gcard00)
 

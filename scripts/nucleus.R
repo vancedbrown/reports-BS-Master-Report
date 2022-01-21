@@ -11,8 +11,7 @@ library(readr)
 
 studs<-c('SPGNC',
          'SPGVA',
-         'SPGTX',
-         'MB 7092')
+         'SPGTX')
 
 source('C:/Users/vance/Documents/myR/functions/getSQL.r')
 
@@ -180,7 +179,7 @@ nuc12<-nuc11b %>%
 nuc13<-nuc12 %>% 
   group_by(BoarID) %>% 
   mutate('Included'=ifelse(`Boar Status`=='NONWORKING', 'NO',
-                           ifelse(Target%in%c('CTH-Semen Test','SS-Semen Test'),'NO',
+                           ifelse(Target%in%c('CTH-Semen Test','SS-Semen Test','CTH'),'NO',
                                   ifelse(BoarID%in%c(),'NO',
                                          ifelse(dr==max(dr) | is.na(dr),'YES','NO')))))
 
@@ -228,13 +227,13 @@ nuc22<-nuc19 %>%
 nuc23<-left_join(x = nuc22,y = nuc21,by=c("Boar Stud"="Boar Stud", "Breed.x"="Breed.x"))
 
 nuc24<-nuc23 %>% 
-  filter(Breed.x==ifelse(`Boar Stud`=='MBW Illinois','SPG120','SPG240'))
+  filter(Breed.x=='SPG240')
 
 nuc24<-nuc24[c(-2)]
 
 nuc24[is.na(nuc24)]<-0
 
-write_csv(x = nuc24,path = here::here("data","topn_nuc.csv"), append = FALSE)
+# write_csv(x = nuc24,path = here::here("data","topn_nuc.csv"), append = FALSE)
 
 # write_csv(x = nuc23,path = here::here("data","missedindexall.csv"), append = TRUE, col_names = TRUE)
 
@@ -263,34 +262,34 @@ write_csv(x = nuc29,path = here::here("data","nuc.csv"), append = FALSE)
 spgn<-nuc29 %>% filter(`Boar Stud`=='SPGNC')
 spgv<-nuc29 %>% filter(`Boar Stud`=='SPGVA')
 spgt<-nuc29 %>% filter(`Boar Stud`=='SPGTX')
-aski<-nuc29 %>% filter(`Boar Stud`=='MB 7092')
+# aski<-nuc29 %>% filter(`Boar Stud`=='MB 7092')
+
 
 write_xlsx(x=list("SPG NC"=spgn,
                   "SPG VA"=spgv,
-                  "SPG TX"=spgt,
-                  "Askin 7092"=aski),
+                  "SPG TX"=spgt),
            here::here("data","MissedIndex_Breakdown_Nucleus.xlsx"))
 
 ################# Weighted by line#################
 
-# nuc30<-left_join(x = nuc23,y = nuc17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
-# 
-# nuc31<-nuc30 %>%
-#   group_by(`Boar Stud`) %>%
-#   filter(Breed.x%in%c('SPG110','SPG120','SPG240')) %>%
-#   mutate(totalneeded=sum(Needed))
-# 
-# nuc31$missed_partial<-nuc31$`Missed Index`*(nuc31$Needed/nuc31$totalneeded)
-# 
-# nuc32<-nuc31 %>%
-#   group_by(`Boar Stud`) %>%
-#   mutate(missed=sum(missed_partial)) %>% 
-#   filter(Breed.x==ifelse(`Boar Stud`=='MB 7092','SPG240','SPG110'))
-# 
-# nuc32<-nuc32[c(1,3,4,10,6)]
-# 
-# nuc32$`Missed Index`<-nuc32$missed
-# 
-# nuc33<-nuc32[c(1,2,3,6,5)]
-# 
-# write_csv(x = nuc33,path = here::here("data","topn_nuc.csv"), append = FALSE)
+nuc30<-left_join(x = nuc23,y = nuc17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
+
+nuc31<-nuc30 %>%
+  group_by(`Boar Stud`) %>%
+  filter(Breed.x%in%c('PICL02','SPG240')) %>%
+  mutate(totalneeded=sum(Needed))
+
+nuc31$missed_partial<-nuc31$`Missed Index`*(nuc31$Needed/nuc31$totalneeded)
+
+nuc32<-nuc31 %>%
+  group_by(`Boar Stud`) %>%
+  mutate(missed=sum(missed_partial)) %>%
+  filter(Breed.x=='SPG240')
+
+nuc32<-nuc32[c(1,3,4,5,10)]
+
+nuc32$`Missed Index`<-nuc32$missed
+
+nuc33<-nuc32[c(-5)]
+
+write_csv(x = nuc33,path = here::here("data","topn_nuc.csv"), append = FALSE)

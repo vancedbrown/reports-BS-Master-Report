@@ -30,11 +30,23 @@ lut3<-lut2 %>%
 lut3<-lut3[order(lut3$BoarID,lut3$Col_Date),]
 
 lut4<-lut3 %>%
-  group_by(BoarID) %>% 
+  group_by(BoarID,`Boar Stud.x`) %>% 
   mutate(dr=row_number(Col_Date),
          count=rowsum(dr,group = BoarID))
 
-lut5<-lut4 %>% 
+# lut7aa<-lut4 %>% 
+#   filter(`Collection Status`!='NC') %>% 
+#   group_by(`Boar Stud.x`,week) %>% 
+#   summarise('Collections'=n())
+
+lut4a<-left_join(x = lut4,y = pigraw, by=c("BoarID"="BoarID"))
+lut4b<-lut4a[c(1:5,10,23:25,28)]
+write_csv(x = lut4b,file = here::here("data","all_lut.csv"))
+
+lut4c<-lut4a %>% 
+  filter(Breed=='SPG240')
+
+lut5<-lut4c %>% 
   filter(dr>4)
 
 lut5<-lut5[c(1,3,4,10,23,24)]

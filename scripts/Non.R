@@ -11,20 +11,14 @@ studs<-c('High Desert',
          'MB 7094',
          'MBW Cimarron',
          'MBW Cyclone',
-         'MBW Illinois',
          'MBW Yuma',
-         'Princeton',
          'Skyline Boar Stud',
          'SPGNC',
          'SPGVA',
-         'SPGTX',
+         'SPG9644',
          'Norson',
          'GCM7-4',
-         'Clinton',
-         'Ingold',
-         'Prestage MS',
-         'MB 7083',
-         'MB 7084')
+         'GCM23-4')
 
 source('C:/Users/vance/Documents/myR/functions/getSQL.r')
 

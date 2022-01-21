@@ -20,7 +20,10 @@ train2a <- left_join(x = train1,y = collraw,by=c("BoarID"="BoarID"))
 train2a$`Boar Stud`<-train2a$`Boar Stud.x`
 
 train2<-train2a  %>%
-  filter(!BoarID%in%c('1831G','1838G','1841G','1852G','1865G'))
+  filter(!BoarID%in%c('1831G','1838G','1841G','1852G','1865G','PIC208681968','PIC208683985','PIC208685890','PIC208689733',
+  'PIC208689738','PIC208691053','PIC208691057','PIC208693286','PIC208693291','PIC208694236','PIC208696263','PIC208697303',
+  'PIC208698011','PIC208698013','PIC208698014','PIC208698868','PIC208698883','PIC208698885','PIC208699912','PIC208699921',
+  'PIC208699922','PIC208701296','PIC208701373','PIC208702264','PIC208703700','PIC208706915'))
 
 train3<-train2 %>%
   group_by(`Boar Stud`) %>% 
@@ -88,8 +91,8 @@ train21$`Percent Trained`<-((train21$`Less Than 4 Collections`+train21$`More Tha
 write_csv(x = train21,path = here::here("data","train.csv"),append = FALSE)
 
 train22<-train2 %>%
-  filter(Date_Arrival>=today()-161,
-         Date_Arrival<=today()-14)
+  filter(Date_Arrival>=floor_date(x = today(),unit = "week",week_start = 1)-161,
+         Date_Arrival<=floor_date(x = today(),unit = "week",week_start = 1)-14)
 
 train23<-train22 %>%
   group_by(`Boar Stud`) %>% 

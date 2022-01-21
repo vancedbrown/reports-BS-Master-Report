@@ -64,7 +64,8 @@ df_in=df2 %>% filter(StudName %in% c(
   'WILL',
   'YUMA',
   'MISS',
-  'SIER'),
+  'SIER',
+  '7362'),
   Year>='2016'
 )
 
@@ -129,9 +130,9 @@ df_sum2$StudNum
 
 ####### targets
 df_out= df_sum2 %>% 
-  mutate( AVG_CB_m = ifelse(StudNum %in% c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,21,22,23), 44.0,
+  mutate( AVG_CB_m = ifelse(StudNum %in% c(1:16,21,22,23,24), 44.0,
                             ifelse(StudNum %in% c(17,18), 34.7, 
-                                   ifelse(StudNum %in% c(19), 28.6,     
+                                   ifelse(StudNum %in% c(19), 44.0,     
                                           ifelse(StudNum %in% c(20), 31.25, 0)))),
           AVG_CB_df=abs(round((AVG_Conc_Bill - AVG_CB_m),2))
   )
@@ -193,9 +194,9 @@ card5<-left_join(x = card4,y = card3,by=c("StudNum"="StudNum"))
 order.score<-order(card5$wk,card5$Comb_score,decreasing = TRUE)
 card6<-card5[order.score,] 
 card7<-card6 %>% 
-  filter(StudNum%in%c(1:16,21:23))
+  filter(StudNum%in%c(1:16,21:24))
 
 
-write_csv(x = card7,path = 'C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-BS-Master-Report/scard.csv',append = FALSE)
+write_csv(x = card7,path = 'C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-BS-Master-Report/data/scard.csv',append = FALSE)
 
 

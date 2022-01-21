@@ -6,6 +6,8 @@ library(stringr)
 library(writexl)
 library(here)
 
+kokraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/reports/reports-KOK-Tracking/boars.csv")
+
 pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/pig.csv", 
                  col_types = cols(Index = col_number()))
 collraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/coll.csv")
@@ -42,11 +44,30 @@ break8<-break7[!duplicated(break7[c("Boar Stud.x","Collnum")]), ]
 
 break9<-left_join(x = break1, y = break8, by=c("BoarID"="BoarID"))
 
-break10<-break9 %>% 
+kokraw$rank<-row_number(-kokraw$Misc_Info)
+
+break9a<-left_join(x = break9,y = kokraw, by=c("BoarID"="BoarID"))
+
+break9b<-break9a %>% 
+  mutate(Breed.x=ifelse(is.na(Misc_Info),Breed.x,
+                        ifelse(rank<201,'KOK',
+                               ifelse(Index>Misc_Info,Breed.x,
+                                      ifelse(Index<95 & Misc_Info>=105,'KOK',Breed.x)))),
+         Index=ifelse(is.na(Misc_Info),Index,
+                      ifelse(rank<201,Misc_Info,
+                             ifelse(Index>Misc_Info,Index,
+                                    ifelse(Index<95 & Misc_Info>=105,Misc_Info,Index)))))
+         
+
+# write_csv(x = break9b, file = here::here("data","1.csv"))
+
+break9b<-break9b[c(-35)]
+
+break10<-break9b %>% 
   mutate('Collected'=ifelse(`Collection Status`%in%c('US','TR'),'YES', 'NO'),
          'Distributed'=ifelse(is.na(Dest),'NO','YES'))
 
-break11<-break10[c(1:4,10,11,33,17,34,8)]
+break11<-break10[c(1:4,10,11,35,17,36,8)]
 
 break11<-break11[order(break11$`Boar Stud`,break11$Breed.x,-break11$Index),]
 
@@ -64,7 +85,8 @@ break12<-break11 %>%
 break13<-break12 %>% 
   group_by(BoarID) %>% 
   mutate('Included'=ifelse(`Boar Status`=='NONWORKING', 'NO',
-                           ifelse(dr==max(dr) | is.na(dr),'YES','NO')))
+                           ifelse(BoarID=='', 'NO',
+                                  ifelse(dr==max(dr) | is.na(dr),'YES','NO'))))
 
 break14<-break13 %>% 
   filter(Included=='YES',
@@ -73,7 +95,8 @@ break14<-break13 %>%
 break14<-break14[order(break14$`Boar Stud`,break14$Breed.x,-break14$Index),]
 
 break15<-break14 %>% 
-  group_by(`Boar Stud`,Breed.x) %>% 
+  group_by(`Boar Stud`,Breed.x) %>%
+  filter(!is.na(Index)) %>% 
   mutate(rank=row_number(-Index),
          maxrank=ifelse(length(Distributed[Distributed=='YES'])==0,0,max(rank[Distributed=='YES'])))
 
@@ -92,6 +115,7 @@ break19<-left_join(x = break18,y = break17,by=c("Boar Stud"="Boar Stud","Breed.x
 
 break20<-break19 %>% 
   group_by(`Boar Stud`,Breed.x) %>% 
+  filter(!is.na(Index)) %>% 
   mutate(rank=row_number(-Index)) %>% 
   summarise(target=ifelse(mean(Needed)==0,0,mean(Index[rank<=Needed])))
 
@@ -112,7 +136,7 @@ break24<-break23 %>%
 
 break24<-break24[c(-2)]
 
-write_csv(x = break24,path = here::here("data","topn.csv"), append = FALSE)
+# write_csv(x = break24,path = here::here("data","topn.csv"), append = FALSE)
 write_csv(x = break23,path = here::here("data","missedindexall.csv"), append = TRUE, col_names = TRUE)
 
 
@@ -146,7 +170,6 @@ break29a<-rbind(break29,breakhigh)
 high<-break29a %>% filter(`Boar Stud`=='High Desert')
 spgn<-break29a %>% filter(`Boar Stud`=='SPGNC')
 spgv<-break29a %>% filter(`Boar Stud`=='SPGVA')
-spgt<-break29a %>% filter(`Boar Stud`=='SPGTX')
 deer<-break29a %>% filter(`Boar Stud`=='MB 7081')
 laur<-break29a %>% filter(`Boar Stud`=='MB 7082')
 aski<-break29a %>% filter(`Boar Stud`=='MB 7092')
@@ -154,17 +177,13 @@ will<-break29a %>% filter(`Boar Stud`=='MB 7093')
 robe<-break29a %>% filter(`Boar Stud`=='MB 7094')
 cima<-break29a %>% filter(`Boar Stud`=='MBW Cimarron')
 cycl<-break29a %>% filter(`Boar Stud`=='MBW Cyclone')
-illi<-break29a %>% filter(`Boar Stud`=='MBW Illinois')
-prin<-break29a %>% filter(`Boar Stud`=='Princeton')
 skyl<-break29a %>% filter(`Boar Stud`=='Skyline Boar Stud')
 yuma<-break29a %>% filter(`Boar Stud`=='MBW Yuma')
-cian<-break29a %>% filter(`Boar Stud`=='Norson')
-gcm<-break29a %>% filter(`Boar Stud`=='GCM7-4')
+maco<-break29a %>% filter(`Boar Stud`=='SPG9644')
 
 write_xlsx(x=list("High Desert"=high,
                   "SPG NC"=spgn,
                   "SPG VA"=spgv,
-                  "SPG TX"=spgt,
                   "Deercroft"=deer,
                   "Laurel Hill"=laur,
                   "Askin"=aski,
@@ -172,34 +191,31 @@ write_xlsx(x=list("High Desert"=high,
                   "Robersonville"=robe,
                   "Cimarron"=cima,
                   "Cyclone"=cycl,
-                  "Illinois"=illi,
-                  "Princeton"=prin,
                   "Skyline"=skyl,
                   "Yuma"=yuma,
-                  "Norson"=cian,
-                  "GCM"=gcm),
+                  "Macon Bacon"=maco),
            here::here("data","MissedIndex_Breakdown.xlsx"))
 
 ################# Weighted by line#################
 
-# break30<-left_join(x = break23,y = break17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
-# 
-# break31<-break30 %>%
-#   group_by(`Boar Stud`) %>%
-#   filter(Breed.x%in%c('SPG120','SPG240')) %>%
-#   mutate(totalneeded=sum(Needed))
-# 
-# break31$missed_partial<-break31$`Missed Index`*(break31$Needed/break31$totalneeded)
-# 
-# break32<-break31 %>%
-#   group_by(`Boar Stud`) %>%
-#   mutate(missed=sum(missed_partial)) %>%
-#   filter(Breed.x==ifelse(`Boar Stud`=='MBW Illinois','SPG120','SPG240'))
-# 
-# break32<-break32[c(1,3,4,10,6)]
-# 
-# break32$`Missed Index`<-break32$missed
-# 
-# break33<-break32[c(1,2,3,6,5)]
-# 
-# write_csv(x = break33,path = here::here("data","topn.csv"), append = FALSE)
+break30<-left_join(x = break23,y = break17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
+
+break31<-break30 %>%
+  group_by(`Boar Stud`) %>%
+  filter(Breed.x%in%c('DNA400','PICL02','SPG240')) %>%
+  mutate(totalneeded=sum(Needed))
+
+break31$missed_partial<-break31$`Missed Index`*(break31$Needed/break31$totalneeded)
+
+break32<-break31 %>%
+  group_by(`Boar Stud`) %>%
+  mutate(missed=sum(missed_partial)) %>%
+  filter(Breed.x=='SPG240')
+
+break32<-break32[c(1,3,4,10,6)]
+
+break32$`Missed Index`<-break32$missed
+
+break33<-break32[c(1,2,3,6,5)]
+
+write_csv(x = break33,path = here::here("data","topn.csv"), append = FALSE)

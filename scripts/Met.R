@@ -53,11 +53,10 @@ met11<-met10 %>%
                           'MBW Cimarron',
                           'MBW Cyclone',
                           'MBW Yuma',
-                          'Princeton',
                           'Skyline Boar Stud',
                           'SPGNC',
                           'SPGVA',
-                          'SPGTX'))
+                          'SPG9644'))
   
 
 write_csv(x = met11,path = here::here("data","met.csv"),append = FALSE)

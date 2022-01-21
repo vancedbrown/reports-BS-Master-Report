@@ -30,10 +30,11 @@ ppp2<-left_join(x = ppp1,y = batch1,by=c("Boar Stud"="Boar Stud","BatchNum"="BAT
 
 
 ppp3<-ppp2 %>% 
+  filter(date<floor_date(x = today(),unit = "week",week_start = 1)) %>% 
   group_by(`Boar Stud`) %>% 
   filter(!is.na(date)) %>% 
-  filter(date<max(date)-6) %>% 
-  filter(date>max(date)-13)
+  filter(date<max(date)-6,
+         date>max(date)-13)
 
 ppp3<-ppp3[-2]
 

@@ -56,7 +56,7 @@ pcard16<-pcard15 %>%
                         ifelse(`Lutalyse Usage`<=10,2,
                                ifelse(`Lutalyse Usage`<=15,1,0))),
          LScoreb=ifelse(`Lutalyse Usage`==0,0,LScorea),
-         LScore=ifelse(`Boar Stud`%in%c('Skyline Boar Stud','Norson'),3,LScoreb),
+         LScore=ifelse(`Boar Stud`%in%c('Skyline Boar Stud','Norson','SPGVA'),3,LScoreb),
          Total=MScore+PScore+RScore+CScore+LScore)
 
 pcard16$wk<-isoweek(pcard16$WeekCommencing)

@@ -20,7 +20,7 @@ collraw<-collraw[order(collraw$BoarID,collraw$Col_Date),]
 rest1<-collraw %>%
   filter(wc<floor_date(x = today(),unit = "week",week_start = 7)) %>% 
   filter(`Collection Status`!='NC') %>% 
-  group_by(BoarID) %>% 
+  group_by(BoarID, `Boar Stud`) %>% 
   mutate(dr=row_number(desc(Col_Date)),
          count=rowsum(dr,group = BoarID))
 
@@ -29,7 +29,7 @@ rest2<-rest1 %>%
   filter(count!=1)
 
 rest3<-rest2 %>% 
-  group_by(BoarID) %>% 
+  group_by(BoarID, `Boar Stud`) %>% 
   mutate(date1=Col_Date[dr==1],
          date2=Col_Date[dr==2],
          rest=date1-date2) %>% 
@@ -40,9 +40,10 @@ rest4<-rest3 %>%
   top_n(1,Col_Date)
 
 rest5<-rest4 %>% 
-  filter(wc==floor_date(x = today(),unit = "week",week_start = 7)-7)
+  filter(wc==floor_date(x = today(),unit = "week",week_start = 7)-7,
+         BoarID!='40005')
 
-write_csv(rest3, path = here::here("data","fgh.csv"))
+write_csv(rest5, path = here::here("data","fgh.csv"))
 
 rest6<-rest5 %>% 
   group_by(`Boar Stud`) %>% 

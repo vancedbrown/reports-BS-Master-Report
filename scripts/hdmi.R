@@ -19,12 +19,12 @@ distraw$Date_Shipped<-as.Date(distraw$Date_Shipped)
 splitraw$Collnum<-as.numeric(splitraw$Collnum)
 
 hdmi1<-pigraw %>% 
-  filter(Date_Arrival<=floor_date(x = today(), unit = "week", week_start = 7)-8) %>% 
-  filter(is.na(Date_Studout)|Date_Studout>floor_date(x = today(),unit = "week", week_start = 7))
+  filter(Date_Arrival<=floor_date(x = today(), unit = "week", week_start = 6)-7) %>% 
+  filter(is.na(Date_Studout)|Date_Studout>floor_date(x = today(),unit = "week", week_start = 6))
 
 hdmi2<-collraw %>% 
-  filter(Col_Date>floor_date(x = today(),unit = "week", week_start = 7)-8) %>% 
-  filter(Col_Date<=floor_date(x = today(), unit = "week", week_start = 7))
+  filter(Col_Date>floor_date(x = today(),unit = "week", week_start = 6)-7) %>% 
+  filter(Col_Date<=floor_date(x = today(), unit = "week", week_start = 6))
 
 hdmi3<-full_join(x = distraw, y = splitraw, by=c("BatchNum"="BatchNum", "Boar Stud"="Boar Stud"))
 
@@ -59,6 +59,7 @@ hdmi11<-hdmi11[order(hdmi11$BoarID,hdmi11$`Collection Status`, hdmi11$Distribute
 
 hdmi12<-hdmi11 %>%
   group_by(BoarID) %>% 
+  filter(!BoarID%in%c()) %>% 
   mutate(dr=row_number(`Collection Status`),
          count=rowsum(dr,group = BoarID))
 
@@ -104,7 +105,7 @@ hdmi22<-hdmi19 %>%
   group_by(`Boar Stud`) %>% 
   mutate(wc=floor_date(Col_Date,unit = "week",week_start = 1)-7) %>%  
   filter(!is.na(wc)) %>% 
-  summarise(WeekCommencing=max(wc))
+  summarise(WeekCommencing=floor_date(x = today(),unit = "week",week_start = 1)-7)
 
 hdmi23<-left_join(x = hdmi21,y = hdmi22,by=c("Boar Stud"="Boar Stud"))
 
@@ -113,7 +114,7 @@ hdmi24<-hdmi23 %>%
 
 hdmi24<-hdmi24[c(-2)]
 
-write_csv(x = hdmi24,path = here::here("data","topn_high.csv"), append = FALSE)
+# write_csv(x = hdmi24,path = here::here("data","topn_high.csv"), append = FALSE)
 write_csv(x = hdmi23,path = here::here("data","missedindexhigh.csv"), append = TRUE, col_names = TRUE)
 
 
@@ -142,24 +143,24 @@ write_csv(x = hdmi29,path = here::here("data","hdmi.csv"), append = FALSE)
 
 ################# Weighted by line#################
 
-# hdmi30<-left_join(x = hdmi23,y = hdmi17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
-# 
-# hdmi31<-hdmi30 %>%
-#   group_by(`Boar Stud`) %>%
-#   filter(Breed.x%in%c('SPG120','SPG240')) %>%
-#   mutate(totalneeded=sum(Needed))
-# 
-# hdmi31$missed_partial<-hdmi31$`Missed Index`*(hdmi31$Needed/hdmi31$totalneeded)
-# 
-# hdmi32<-hdmi31 %>%
-#   group_by(`Boar Stud`) %>%
-#   mutate(missed=sum(missed_partial)) %>%
-#   filter(Breed.x==ifelse(`Boar Stud`=='MBW Illinois','SPG120','SPG240'))
-# 
-# hdmi32<-hdmi32[c(1,3,4,10,6)]
-# 
-# hdmi32$`Missed Index`<-hdmi32$missed
-# 
-# hdmi33<-hdmi32[c(1,2,3,6,5)]
-# 
-# write_csv(x = hdmi33,path = here::here("data","topn_high.csv"), append = FALSE)
+hdmi30<-left_join(x = hdmi23,y = hdmi17, by=c("Boar Stud"="Boar Stud","Breed.x"="Breed.x"))
+
+hdmi31<-hdmi30 %>%
+  group_by(`Boar Stud`) %>%
+  filter(Breed.x%in%c('DNA400','SPG240')) %>%
+  mutate(totalneeded=sum(Needed))
+
+hdmi31$missed_partial<-hdmi31$`Missed Index`*(hdmi31$Needed/hdmi31$totalneeded)
+
+hdmi32<-hdmi31 %>%
+  group_by(`Boar Stud`) %>%
+  mutate(missed=sum(missed_partial)) %>%
+  filter(Breed.x=='SPG240')
+
+hdmi32<-hdmi32[c(1,3,4,10,6)]
+
+hdmi32$`Missed Index`<-hdmi32$missed
+
+hdmi33<-hdmi32[c(1,2,3,6,5)]
+
+write_csv(x = hdmi33,path = here::here("data","topn_high.csv"), append = FALSE)

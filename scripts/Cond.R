@@ -112,12 +112,10 @@ cond19<-cond18 %>%
                           'MB 7094',
                           'MBW Cimarron',
                           'MBW Cyclone',
-                          'MBW Illinois',
                           'MBW Yuma',
-                          'Princeton',
                           'Skyline Boar Stud',
                           'SPGNC',
                           'SPGVA',
-                          'SPGTX'))
+                          'SPG9644'))
 
 write_csv(x = cond19, path = here::here("data","cond.csv"),append = FALSE)

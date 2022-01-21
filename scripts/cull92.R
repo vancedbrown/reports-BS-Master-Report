@@ -12,84 +12,93 @@ pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/da
 lookraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/look.csv")
 lookraw$key<-paste(lookraw$`Boar Stud`,lookraw$ID)
 
-# archive<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/indexarchive.csv")
-
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)
 pigraw$Date_Studout<-as.Date(pigraw$Date_Studout)
 
-cull1<-pigraw %>% 
-  filter(is.na(Date_Studout))
 
-cull2<-pigraw %>% 
-  filter(Date_Studout<floor_date(x = today(),unit = "week", week_start = 7),
+source('C:/Users/vance/Documents/myR/functions/getSQL.r')
+
+query1<-"SELECT a.StudID
+      ,a.BoarID
+	  ,b.DV_IDX
+	  ,b.Product
+  FROM Intranet.dbo.Boar_Pig a
+  inner join Intranet.dbo.ProductIdx b on a.BoarID = b.SPGid
+  WHERE a.StudID = 'MB 7092' and b.Product = 'D1_KOK'"
+kokindex<-getSQL('Intranet',query = query1)
+
+
+culla1<-pigraw %>% 
+  filter(is.na(Date_Studout),
+         `Boar Stud`=='MB 7092')
+
+culla2<-pigraw %>% 
+  filter(`Boar Stud`=='MB 7092',
+         Date_Studout<floor_date(x = today(),unit = "week", week_start = 7),
          Date_Studout>=floor_date(x = today(),unit= "week", week_start = 7)-7)
 
-cull3<-rbind(cull1,cull2)
+culla3<-rbind(culla1,culla2)
 
-cull4<-cull3 %>% 
+
+culla4a<-left_join(x = culla3,y = kokindex, by=c("BoarID"="BoarID"))
+
+
+culla4<-culla4a %>% 
+  filter(DV_IDX<113.0) %>% 
   group_by(`Boar Stud`,Breed) %>% 
   mutate(rank=row_number(-Index),
          ranksum=max(rank))
 
-cull5a<-cull4 %>% 
+culla5a<-culla4 %>% 
   group_by(`Boar Stud`,Breed) %>% 
   mutate(Percentile=rank/ranksum)
 
 
-cull5b<-cull5a %>% 
+culla5b<-culla5a %>% 
   mutate(key=paste(`Boar Stud`,Dispose_Code))
 
-cull5<-left_join(x = cull5b,y = lookraw,by=c("key"="key"))
+culla5<-left_join(x = culla5b,y = lookraw,by=c("key"="key"))
 
-cull6<-cull5 %>% 
+culla6<-culla5 %>% 
   group_by(`Boar Stud.x`) %>% 
   filter(`Boar Status`=='CULLED') %>% 
   summarise('Boars Culled'=n_distinct(BoarID))
 
-cull6a<-cull5 %>% 
-  filter(`Boar Status`=='CULLED') %>% 
-  mutate(WeekCommencing=floor_date(x = today(),unit= "week", week_start = 7)-7)
-
-write_csv(x = cull6a, file = here::here("data","cullboars.csv"),append = TRUE, col_names = FALSE)
-
-cull7<-cull5 %>% 
+culla7<-culla5 %>% 
   group_by(`Boar Stud.x`) %>% 
   filter(`Boar Status`=='CULLED',
          Percentile>=0.75 | DESCR=='GENETIC SERVICES') %>% 
   summarise('Low Index Culls'=n_distinct(BoarID))
 
-cull8a<-left_join(x = cull6,y = cull7,by=c("Boar Stud.x"="Boar Stud.x"))
+culla8<-left_join(x = culla6,y = culla7,by=c("Boar Stud.x"="Boar Stud.x"))
 
-cull8<-cull8a %>% 
-  filter(`Boar Stud.x`!='MB 7092')
+culla8[is.na(culla8)]<-0
 
-cull8[is.na(cull8)]<-0
-
-cull8$WeekCommencing<-floor_date(x = today(),unit= "week", week_start = 7)-7
-cull8$WeekCommencing<-as.Date(x = cull8$WeekCommencing, format='%mm/%dd/%YYYY')
+culla8$WeekCommencing<-floor_date(x = today(),unit= "week", week_start = 7)-7
+culla8$WeekCommencing<-as.Date(x = culla8$WeekCommencing, format='%mm/%dd/%YYYY')
 
 
-write_csv(x = cull8,path = here::here("data","cullopen.csv"),append = TRUE, col_names = FALSE)
-write_csv(x = cull8,path = here::here("data","cull.csv"),append = TRUE, col_names = FALSE)
+write_csv(x = culla8,path = here::here("data","cullaopen.csv"),append = TRUE, col_names = FALSE)
+write_csv(x = culla8,path = here::here("data","cull.csv"),append = TRUE, col_names = FALSE)
 
-cull9<-cull5 %>% 
+culla9<-culla5 %>% 
   filter(`Boar Status`%in%c('CULLED','DEAD'))
 
-cull10<-cull9
+culla10<-culla9
 
-cull10$week<-floor_date(x = today(),unit = "week",week_start = 1)-7
+culla10$week<-floor_date(x = today(),unit = "week",week_start = 1)-7
 
-cull11<-cull10 %>% 
+culla11<-culla10 %>% 
   filter(DESCR=='LOW INDEX',
          Percentile<0.75)
 
-write_csv(x = cull11,path = here::here("data","indexcullerrorboars.csv"), append = TRUE)
+write_csv(x = culla11,path = here::here("data","indexcullaerrorboars.csv"), append = TRUE)
 
-cull12<-cull11 %>% 
+culla12<-culla11 %>% 
   group_by(`Boar Stud.x`) %>% 
   summarise('Cull Errors'=n_distinct(BoarID))
 
-write_csv(x = cull12,path = here::here("data","cullerrors.csv"),append = TRUE)
+write_csv(x = culla12,path = here::here("data","cullerrors.csv"),append = TRUE)
 
 # cull13<-cull10 %>% 
 #   group_by(`Boar Stud.x`) %>% 
@@ -104,5 +113,3 @@ write_csv(x = cull12,path = here::here("data","cullerrors.csv"),append = TRUE)
 # cull15<-cull14[c(1,2,6,4)]
 
 # write_csv(x = cull15,path = here::here("data","cull.csv"),append = TRUE, col_names = FALSE)
-
-

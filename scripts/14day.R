@@ -18,10 +18,11 @@ fday1<-pigraw %>%
 
 fday2<-collraw %>% 
   group_by(BoarID) %>% 
-  #filter(Status!='NC') %>% 
+  filter(Col_Date<floor_date(x = today(),unit = "week",week_start = 1)) %>% 
   top_n(1,Col_Date)
 
 fday3<-collraw %>% 
+  filter(Col_Date<floor_date(x = today(),unit = "week",week_start = 1)) %>% 
   group_by(`Boar Stud`) %>% 
   summarise(date=max(Col_Date))
 

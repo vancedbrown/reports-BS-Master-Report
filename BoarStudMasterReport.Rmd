@@ -48,12 +48,13 @@ library(kableExtra)
 # source(here::here("scripts","SQC.R"))
 # source(here::here("scripts","Train.R"))
 # source(here::here("scripts","Cull.R")) ## RUN INDIVIDUALLY AND CHANGE DATES ##
+# source(here::here("scripts","Cull92.R"))
 # source(here::here("scripts","NTC.R"))
 # source(here::here("scripts","Bottom.R"))
 # source(here::here("scripts","nucleus.R"))
 # source(here::here("scripts","Cond.R"))
-# source(here::here("scripts","hours.R"))
-# source(here::here("scripts","mort2.R"))
+# source(here::here("scripts","Hours.R"))
+# source(here::here("scripts","Mort2.R"))
 # 
 # source(here::here("scripts","PCard.R"))
 # source(here::here("scripts","GCard.R"))
@@ -61,13 +62,11 @@ library(kableExtra)
 # source(here::here("scripts","dash.R"))
 
 
-
-
 ```
 
 <br>
 
-<h2><center>`r year(floor_date(today(),unit = "week",week_start = 5)-7)` Week `r isoweek(floor_date(today(),unit = "week", week_start = 1)-7)`</h2>
+<h2><center>`r year(floor_date(today(),unit = "week",week_start = 5))` Week `r isoweek(floor_date(today(),unit = "week", week_start = 1)-7)`</h2>
 
 <br>
 <br>
@@ -509,7 +508,7 @@ kbl(table16b,align = 'c', digits = 2) %>%
 table17a<-read_csv(here::here("data","scarddata.csv"))
 
 table17b<-table17a %>% 
-  filter(StudNum%in%c(1:5,8:12,14:16,21)) %>% 
+  filter(StudNum%in%c(2:5,8:12,14:16,21)) %>% 
   group_by(StudName) %>% 
   top_n(n = 4,wt = Year_week)
   
@@ -554,8 +553,10 @@ table18f<-table18f[!duplicated(table18f$`Boar Stud`),]
 
 table18g<-left_join(x = table18e,y = table18f, by=c("Boar Stud"="Boar Stud"))
 
+table18g<-table18g[-c(15,16,17)]
+
 kbl(x = table18g, align = 'c', digits = 1) %>%
-  column_spec(18,background = ifelse(table18g$`13 Week Average`>92.99,"limegreen","red")) %>%
+  column_spec(15,background = ifelse(table18g$`13 Week Average`>92.99,"limegreen","red")) %>%
   kable_styling(full_width = T,
                 font_size = 14)
   
