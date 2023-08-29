@@ -12,7 +12,6 @@ pigraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/da
 lookraw<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/look.csv")
 lookraw$key<-paste(lookraw$`Boar Stud`,lookraw$ID)
 
-# archive<-read_csv("C:/Users/vance/Documents/projects/Working Project Directory/data/data-SQL-BS-Data-Pull/indexarchive.csv")
 
 pigraw$Date_Arrival<-as.Date(pigraw$Date_Arrival)
 pigraw$Date_Studout<-as.Date(pigraw$Date_Studout)
@@ -58,10 +57,7 @@ cull7<-cull5 %>%
          Percentile>=0.75 | DESCR=='GENETIC SERVICES') %>% 
   summarise('Low Index Culls'=n_distinct(BoarID))
 
-cull8a<-left_join(x = cull6,y = cull7,by=c("Boar Stud.x"="Boar Stud.x"))
-
-cull8<-cull8a %>% 
-  filter(`Boar Stud.x`!='MB 7092')
+cull8<-left_join(x = cull6,y = cull7,by=c("Boar Stud.x"="Boar Stud.x"))
 
 cull8[is.na(cull8)]<-0
 
@@ -81,7 +77,7 @@ cull10$week<-floor_date(x = today(),unit = "week",week_start = 1)-7
 
 cull11<-cull10 %>% 
   filter(DESCR=='LOW INDEX',
-         Percentile<0.75)
+         Percentile<=0.75)
 
 write_csv(x = cull11,path = here::here("data","indexcullerrorboars.csv"), append = TRUE)
 
@@ -89,20 +85,45 @@ cull12<-cull11 %>%
   group_by(`Boar Stud.x`) %>% 
   summarise('Cull Errors'=n_distinct(BoarID))
 
+cull12$week<-floor_date(x = today(),unit = "week",week_start = 1)-7
+
 write_csv(x = cull12,path = here::here("data","cullerrors.csv"),append = TRUE)
 
-# cull13<-cull10 %>% 
-#   group_by(`Boar Stud.x`) %>% 
-#   filter(DESCR=='GENETIC SERVICES') %>% 
-#   summarise('Low Index Culls_B'=n_distinct(BoarID))
-# 
-# cull14<-left_join(x = cull8,y = cull13,by=c("Boar Stud"="Boar Stud.x"))
-# cull14[is.na(cull14)]<-0
-# 
-# cull14$`Low Index Culls`<-cull14$`Low Index Culls_A`+cull14$`Low Index Culls_B`
-# 
-# cull15<-cull14[c(1,2,6,4)]
+### SQ and TC cull errors ###
 
-# write_csv(x = cull15,path = here::here("data","cull.csv"),append = TRUE, col_names = FALSE)
+cull13<-pigraw %>% 
+  filter(Date_Studout<floor_date(x = today(),unit = "week", week_start = 7),
+         Date_Studout>=floor_date(x = today(),unit= "week", week_start = 7)-28)
 
+
+cull14<-cull13 %>% 
+  mutate(key=paste(`Boar Stud`,Dispose_Code))
+
+cull15<-left_join(x = cull14,y = lookraw,by=c("key"="key"))
+ 
+cull16<- read_csv(here::here("data","semenculls.csv"))  
+cull17<- read_csv(here::here("data","trainingculls.csv"))
+
+cull17$BoarID<-as.character(cull17$BoarID)
+cull18<-left_join(x = cull15,y = cull16, by=c("BoarID"="BoarID"))
+cull19<-left_join(x = cull18,y = cull17, by=c("BoarID"="BoarID"))
+
+cull20<-cull19 %>% 
+  filter(DESCR%in%c('WILL NOT TRAIN','SEMEN QUALITY'))
+
+cull21<-cull20 %>% 
+  filter(DESCR=='SEMEN QUALITY',
+         `Collections Trashed Consecutively`<6 | is.na(`Collections Trashed Consecutively`)) %>% 
+  group_by(`Boar Stud.x`) %>% 
+  summarise('Semen Quality Cull Errors'=n_distinct(BoarID))
+
+cull22<-cull20 %>% 
+  filter(DESCR=='WILL NOT TRAIN',
+         `Consecutive Failed Collections`<8 | is.na(`Consecutive Failed Collections`)) %>% 
+  group_by(`Boar Stud.x`) %>% 
+  summarise('Will Not Train Errors'=n_distinct(BoarID))
+
+write_csv(x = cull20,file = here::here("data","sqntboars.csv"), append = FALSE)
+write_csv(x = cull21, file = here::here("data","sqerrors.csv"), append = FALSE)
+write_csv(x = cull22, file = here::here("data","nterrors.csv"), append = FALSE)
 

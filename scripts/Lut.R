@@ -90,3 +90,28 @@ lut11<-lut10 %>%
 lut12<-left_join(x = lut9,y = lut11,by=c("Boar Stud"="Boar Stud"))
 
 write_csv(x = lut12,path = here::here("data","lut.csv"),append = FALSE)
+
+#### Non-Lutalyse Treatments ###
+
+treat1<-trtraw %>% 
+  filter(TCode=='MED')
+
+treat2<-treat1 %>% 
+  filter(TDate<floor_date(x = today(),unit = "week", week_start = 7),
+         TDate>=floor_date(x = today(),unit= "week", week_start = 7)-91)
+
+treat3<-treat2 %>% 
+  group_by(`Boar Stud`) %>% 
+  summarise('Treated Boars'=n_distinct(BoarID)/13)
+
+treat4<-pigraw %>% 
+  group_by(`Boar Stud`) %>% 
+  filter(`Boar Status`%in%c('WORKING','NONWORKING')) %>% 
+  summarise('Total Boars in Stud'=n_distinct(BoarID))
+
+treat5<-left_join(x = treat4,y = treat3, by=c("Boar Stud"="Boar Stud"))        
+
+treat5[is.na(treat5)]<-0
+treat5$`Treatment Rate`<-(treat5$`Treated Boars`/treat5$`Total Boars in Stud`)*100
+
+write_csv(x = treat5, file=here::here("data","treatments.csv"), append = FALSE)

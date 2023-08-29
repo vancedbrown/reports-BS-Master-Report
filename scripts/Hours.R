@@ -40,7 +40,7 @@ hour9<-hour8 %>%
 
 hour10<-hour9 %>% 
   group_by(`Boar Stud`) %>% 
-  filter(`Boar Stud`!='SPGTX') %>% 
+  filter(!`Boar Stud`%in%c('High Desert','SPGTX','Princeton')) %>% 
   top_n(`Pay Per Date`,n = 6) %>% 
   spread(key = `Pay Per Date`,value = `Hours/Boar/Week`)
 

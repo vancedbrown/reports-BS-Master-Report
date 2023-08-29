@@ -55,24 +55,38 @@ rest7<-rest5 %>%
 
 rest8<-left_join(x = rest6,y = rest7,by=c("Boar Stud"="Boar Stud"))
 
-rest9<-rest1 %>% 
-  group_by(BoarID) %>% 
-  filter(count>10)
+# rest9a<-rest1 %>%
+#   group_by(BoarID) %>% 
+#   filter(`Boar Stud`!='SPGNC',
+#          count>10)
+# 
+# rest9b<-rest1 %>% 
+#   group_by(BoarID) %>% 
+#   filter(`Boar Stud`=='SPGNC')
+
+# rest9<-rbind(rest9a, rest9b)
+
+rest9<-left_join(x = rest1, y = pigraw, by=c("BoarID"="BoarID"))
 
 rest10<-rest9 %>%
   filter(wc==floor_date(x = today(),unit = "week",week_start = 7)-7) %>% 
-  filter(`Collection Status`=='TR') %>% 
-  group_by(`Boar Stud`) %>% 
+  filter(`Collection Status`=='TR',
+         `Boar Status`=='WORKING') %>% 
+  group_by(`Boar Stud.x`) %>% 
   summarize(trash=n())
 
 rest11<-rest9 %>% 
   filter(wc==floor_date(x = today(),unit = "week",week_start = 7)-7) %>% 
-  filter(`Collection Status`!='NC') %>%
-  group_by(`Boar Stud`) %>% 
+  filter(`Collection Status`!='NC',
+         `Boar Status`=='WORKING') %>%
+  group_by(`Boar Stud.x`) %>% 
   summarize(total=n())
 
-rest12<-left_join(x = rest10,y = rest11,by=c("Boar Stud"="Boar Stud"))
+rest12<-left_join(x = rest10,y = rest11,by=c("Boar Stud.x"="Boar Stud.x"))
 rest12$`Trash Rate`<-(rest12$trash/rest12$total)*100
+
+rest12$`Boar Stud`<-rest12$`Boar Stud.x`
+rest12<-rest12[c(5,2,3,4)]
 
 write_csv(x = rest8,here::here("data","rest.csv"),append = FALSE)
 write_csv(x = rest12,here::here("data","trash.csv"),append = FALSE)

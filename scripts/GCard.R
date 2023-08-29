@@ -44,12 +44,12 @@ gcard8<-gcard5 %>%
   summarise(dist=n_distinct(BoarID))
 
 gcard4a<-gcard4 %>% 
-  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-161) %>% 
+  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-91) %>% 
   group_by(`Boar Stud`) %>% 
   summarise(`% Boars Culled in Bottom 25%`=(sum(`Low Index Culls`)/sum(`Boars Culled`))*100)
 
 gcard4b<-gcard4 %>% 
-  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-161) %>% 
+  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-91) %>% 
   group_by(`Boar Stud`) %>% 
   summarise(`Total Boars Culled`=sum(`Boars Culled`))
 
@@ -84,7 +84,7 @@ gcard16<-gcard15a %>%
          DScore=ifelse(abs(`Average Days Rest`-7)<=1,3,
                        ifelse(abs(`Average Days Rest`-7)<=2,2,
                               ifelse(abs(`Average Days Rest`-7)<=3,1,0))),
-         BScore=ifelse(`Total Boars`==0,3,
+         BScore=ifelse(`Total Boars`<=10,3,
                        ifelse(`Percent Trained`==0,3,
                               ifelse(`Percent Trained`>=90,3,
                                      ifelse(`Percent Trained`>=80,2,

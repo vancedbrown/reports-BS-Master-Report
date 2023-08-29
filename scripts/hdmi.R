@@ -19,12 +19,12 @@ distraw$Date_Shipped<-as.Date(distraw$Date_Shipped)
 splitraw$Collnum<-as.numeric(splitraw$Collnum)
 
 hdmi1<-pigraw %>% 
-  filter(Date_Arrival<=floor_date(x = today(), unit = "week", week_start = 6)-7) %>% 
-  filter(is.na(Date_Studout)|Date_Studout>floor_date(x = today(),unit = "week", week_start = 6))
+  filter(Date_Arrival<=floor_date(x = today(), unit = "week", week_start = 7)-7) %>% 
+  filter(is.na(Date_Studout)|Date_Studout>floor_date(x = today(),unit = "week", week_start = 7))
 
 hdmi2<-collraw %>% 
-  filter(Col_Date>floor_date(x = today(),unit = "week", week_start = 6)-7) %>% 
-  filter(Col_Date<=floor_date(x = today(), unit = "week", week_start = 6))
+  filter(Col_Date>floor_date(x = today(),unit = "week", week_start = 7)-7) %>% 
+  filter(Col_Date<=floor_date(x = today(), unit = "week", week_start = 7))
 
 hdmi3<-full_join(x = distraw, y = splitraw, by=c("BatchNum"="BatchNum", "Boar Stud"="Boar Stud"))
 

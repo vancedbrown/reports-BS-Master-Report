@@ -31,13 +31,12 @@ library(readr)
 library(here)
 library(kableExtra)
 
-# source(here::here("scripts","hdmi.R")) ## DO NOT RUN AFTER WEDNESDAY ##
+##MODIFY Cull.R and GCard2.R to add weeks for removal reason errors###
+
 # source(here::here("scripts","14day.R"))
 # source(here::here("scripts","Batch.R"))
 # source(here::here("scripts","Break.R"))
-# # source(here::here("scripts","Contingency.R"))
 # source(here::here("scripts","Distribution.R"))
-# # source(here::here("scripts","Indextrend.R"))
 # source(here::here("scripts","Inventory.R"))
 # source(here::here("scripts","Lut.R"))
 # source(here::here("scripts","Met.R"))
@@ -47,8 +46,7 @@ library(kableExtra)
 # source(here::here("scripts","Rest.R"))
 # source(here::here("scripts","SQC.R"))
 # source(here::here("scripts","Train.R"))
-# source(here::here("scripts","Cull.R")) ## RUN INDIVIDUALLY AND CHANGE DATES ##
-# source(here::here("scripts","Cull92.R"))
+# source(here::here("scripts","Cull.R")) ## RUN INDIVIDUALLY AND CHANGE DATES, ONLY RUN ONCE PER WEEK ##
 # source(here::here("scripts","NTC.R"))
 # source(here::here("scripts","Bottom.R"))
 # source(here::here("scripts","nucleus.R"))
@@ -56,10 +54,12 @@ library(kableExtra)
 # source(here::here("scripts","Hours.R"))
 # source(here::here("scripts","Mort2.R"))
 # 
-# source(here::here("scripts","PCard.R"))
-# source(here::here("scripts","GCard.R"))
-# source(here::here("scripts","scorecard.R"))
-# source(here::here("scripts","dash.R"))
+# # ### MAKE SURE CULL FILE DATES HAVE BEEN FIXED###
+# 
+# source(here::here("scripts","PCard2.R"))
+# source(here::here("scripts","GCard2.R"))
+# source(here::here("scripts","Scard.R"))
+# source(here::here("scripts","Dash2.R"))
 
 
 ```
@@ -73,35 +73,35 @@ library(kableExtra)
 <br>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-dashboard1<-read_csv(here::here("data","dash.csv"))
+dashboard1<-read_csv(here::here("data","dash2.csv"))
 
 dashboard1<-dashboard1[order(-dashboard1$`13 Week Total Score`),]
 
 kbl(x = dashboard1, align = 'c', digits = 1) %>%
   column_spec(2,background = ifelse(is.na(dashboard1$`Semen QCQA Score`),"white",
-                                    ifelse(dashboard1$`Semen QCQA Score`>12.99,"limegreen",
-                                           ifelse(dashboard1$`Semen QCQA Score`>10.99,"yellow","red"))))  %>%
+                                    ifelse(dashboard1$`Semen QCQA Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`Semen QCQA Score`>6.99,"yellow","red"))))  %>%
   column_spec(3,background = ifelse(is.na(dashboard1$`13 Week Semen QCQA Score`),"white",
-                                    ifelse(dashboard1$`13 Week Semen QCQA Score`>12.99,"limegreen",
-                                           ifelse(dashboard1$`13 Week Semen QCQA Score`>10.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`13 Week Semen QCQA Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`13 Week Semen QCQA Score`>6.99,"yellow","red")))) %>%
   column_spec(4,background = ifelse(is.na(dashboard1$`Production Score`),"white",
-                                    ifelse(dashboard1$`Production Score`>12.99,"limegreen",
-                                           ifelse(dashboard1$`Production Score`>10.99,"yellow","red"))))  %>%
+                                    ifelse(dashboard1$`Production Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`Production Score`>6.99,"yellow","red"))))  %>%
   column_spec(5,background = ifelse(is.na(dashboard1$`13 Week Production Score`),"white",
-                                    ifelse(dashboard1$`13 Week Production Score`>12.99,"limegreen",
-                                           ifelse(dashboard1$`13 Week Production Score`>10.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`13 Week Production Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`13 Week Production Score`>6.99,"yellow","red")))) %>%
   column_spec(6,background = ifelse(is.na(dashboard1$`Genetic Implementation Score`),"white",
-                                    ifelse(dashboard1$`Genetic Implementation Score`>10.99,"limegreen",
-                                           ifelse(dashboard1$`Genetic Implementation Score`>8.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`Genetic Implementation Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`Genetic Implementation Score`>6.99,"yellow","red")))) %>%
   column_spec(7,background = ifelse(is.na(dashboard1$`13 Week Genetic Implementation Score`),"white",
-                                    ifelse(dashboard1$`13 Week Genetic Implementation Score`>10.99,"limegreen",
-                                           ifelse(dashboard1$`13 Week Genetic Implementation Score`>8.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`13 Week Genetic Implementation Score`>8.99,"limegreen",
+                                           ifelse(dashboard1$`13 Week Genetic Implementation Score`>6.99,"yellow","red")))) %>%
   column_spec(8,background = ifelse(is.na(dashboard1$`Total Score`),"white",
-                                    ifelse(dashboard1$`Total Score`>35.99,"limegreen",
-                                           ifelse(dashboard1$`Total Score`>29.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`Total Score`>26.99,"limegreen",
+                                           ifelse(dashboard1$`Total Score`>20.99,"yellow","red")))) %>%
   column_spec(9,background = ifelse(is.na(dashboard1$`13 Week Total Score`),"white",
-                                    ifelse(dashboard1$`13 Week Total Score`>35.99,"limegreen",
-                                           ifelse(dashboard1$`13 Week Total Score`>29.99,"yellow","red")))) %>%
+                                    ifelse(dashboard1$`13 Week Total Score`>26.99,"limegreen",
+                                           ifelse(dashboard1$`13 Week Total Score`>20.99,"yellow","red")))) %>%
   kable_styling(full_width = T,
                 font_size = 14)
 ```
@@ -113,27 +113,25 @@ kbl(x = dashboard1, align = 'c', digits = 1) %>%
 <h1>Semen Scorecard</h1>
 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-sscorecard1<-read_csv(here::here("data","scard.csv"))
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+sscorecard1<-read_csv(here::here("data","scard2.csv"))
 sscorecard2<-read_csv(here::here("inputs","semkey.csv"))
 
-sscorecard1<-sscorecard1[order(-sscorecard1$wk,-sscorecard1$Comb_score),]
+sscorecard1<-sscorecard1[order(-sscorecard1$`13 Week Average`,-sscorecard1$Total),]
 
-kbl(x = sscorecard1, align = 'c', digits = 1, col.names = c('Stud Number','Stud Name', 'Samples','Avg Conc', 'Diff target', 'Score','SD Conc','Score','Avg Morph','Score','Low Morph','Score','Bact Pos','Score','Comb Score','4 Week Avg','Quarter Avg')) %>%
-  column_spec(6,background = ifelse(sscorecard1$AVG_CB_score>2.99,"limegreen",
-                                    ifelse(sscorecard1$AVG_CB_score>1.99,"yellow","red"))) %>%
-  column_spec(8,background = ifelse(sscorecard1$SD_CBill_score>2.99,"limegreen",
-                                    ifelse(sscorecard1$SD_CBill_score>1.99,"yellow","red"))) %>%
-  column_spec(10,background = ifelse(sscorecard1$AVG_NM_score>2.99,"limegreen",
-                                    ifelse(sscorecard1$AVG_NM_score>1.99,"yellow","red"))) %>%
-  column_spec(12,background = ifelse(sscorecard1$min_NM_score>2.99,"limegreen",
-                                    ifelse(sscorecard1$min_NM_score>1.99,"yellow","red"))) %>%
-  column_spec(14,background = ifelse(sscorecard1$pct_B_score>2.99,"limegreen",
-                                    ifelse(sscorecard1$pct_B_score>1.99,"yellow","red"))) %>%
-  column_spec(16,background = ifelse(sscorecard1$wk>12.99,"limegreen",
-                                    ifelse(sscorecard1$wk>10.99,"yellow","red"))) %>%
-  column_spec(17,background = ifelse(sscorecard1$q>12.99,"limegreen",
-                                    ifelse(sscorecard1$q>10.99,"yellow","red"))) %>% 
+kbl(x = sscorecard1, align = 'c', digits = 1) %>%
+  column_spec(4,background = ifelse(sscorecard1$CScore>3.99,"limegreen",
+                                    ifelse(sscorecard1$CScore>2.99,"yellow",
+                                           ifelse(sscorecard1$CScore>1.99, "orange","red")))) %>%
+  column_spec(6,background = ifelse(sscorecard1$MScore>2.99,"limegreen",
+                                    ifelse(sscorecard1$MScore>1.99,"yellow","red"))) %>%
+  column_spec(8,background = ifelse(sscorecard1$AScore>1.99,"limegreen",
+                                    ifelse(sscorecard1$AScore>0.99,"yellow","red"))) %>%
+  column_spec(10,background = ifelse(sscorecard1$BScore>0.99,"limegreen","red")) %>%
+  column_spec(12,background = ifelse(sscorecard1$`4 Week Average`>8.99,"limegreen",
+                                    ifelse(sscorecard1$`4 Week Average`>6.99,"yellow","red"))) %>%
+  column_spec(13,background = ifelse(sscorecard1$`13 Week Average`>8.99,"limegreen",
+                                    ifelse(sscorecard1$`13 Week Average`>6.99,"yellow","red"))) %>% 
   kable_styling(full_width = T,
                 font_size = 14)
 
@@ -149,28 +147,21 @@ kbl(sscorecard2) %>%
 <h1>Production Scorecard</h1>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-pscorecard1<-read_csv(here::here("data","pcard.csv"))
+pscorecard1<-read_csv(here::here("data","pcard2.csv"))
 
-pscorecard2<-pscorecard1 %>% 
-  filter(!`Boar Stud`%in%c('Ingold','Clinton','Prestage MS'))
+pscorecard1<-pscorecard1[order(-pscorecard1$`4 Week Average`,-pscorecard1$Total),]
 
-pscorecard2<-pscorecard2[order(-pscorecard2$`4 Week Average`,-pscorecard2$Total),]
-
-kbl(x = pscorecard2, align = 'c', digits = 2) %>%
-  column_spec(3,background = ifelse(pscorecard2$MScore>2.99,"limegreen",
-                                    ifelse(pscorecard2$MScore>1.99,"yellow","red"))) %>%
-  column_spec(5,background = ifelse(pscorecard2$PScore>2.99,"limegreen",
-                                    ifelse(pscorecard2$PScore>1.99,"yellow","red"))) %>%
-  column_spec(7,background = ifelse(pscorecard2$RScore>2.99,"limegreen",
-                                    ifelse(pscorecard2$RScore>1.99,"yellow","red"))) %>%
-  column_spec(9,background = ifelse(pscorecard2$CScore>2.99,"limegreen",
-                                    ifelse(pscorecard2$CScore>1.99,"yellow","red"))) %>%
-  column_spec(11,background = ifelse(pscorecard2$LScore>2.99,"limegreen",
-                                    ifelse(pscorecard2$LScore>1.99,"yellow","red"))) %>%
-  column_spec(13,background = ifelse(pscorecard2$`4 Week Average`>12.99,"limegreen",
-                                    ifelse(pscorecard2$`4 Week Average`>10.99,"yellow","red"))) %>%
-  column_spec(14,background = ifelse(pscorecard2$`Quarter Average`>12.99,"limegreen",
-                                    ifelse(pscorecard2$`Quarter Average`>10.99,"yellow","red"))) %>%
+kbl(x = pscorecard1, align = 'c', digits = 2) %>%
+  column_spec(3,background = ifelse(pscorecard1$TScore>2.99,"limegreen","red")) %>%
+  column_spec(5,background = ifelse(pscorecard1$RScore>2.99,"limegreen",
+                                    ifelse(pscorecard1$RScore>1.99,"yellow","red"))) %>%
+  column_spec(7,background = ifelse(pscorecard1$PScore>1.99,"limegreen","red")) %>%
+  column_spec(9,background = ifelse(pscorecard1$LScore>1.99,"limegreen",
+                                    ifelse(pscorecard1$LScore>0.99,"yellow","red"))) %>%
+  column_spec(11,background = ifelse(pscorecard1$`4 Week Average`>8.99,"limegreen",
+                                    ifelse(pscorecard1$`4 Week Average`>6.99,"yellow","red"))) %>%
+  column_spec(12,background = ifelse(pscorecard1$`Quarter Average`>8.99,"limegreen",
+                                    ifelse(pscorecard1$`Quarter Average`>6.99,"yellow","red"))) %>%
   kable_styling(full_width = T,
                 font_size = 14)
 
@@ -188,26 +179,23 @@ kbl(pscorecard3) %>%
 <h1>Genetic Implementation Scorecard</h1>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-gscorecard1<-read_csv(here::here("data","gcard.csv"))
+gscorecard1<-read_csv(here::here("data","gcard2.csv"))
 
-gscorecard2<-gscorecard1 %>% 
-  filter(!`Boar Stud`%in%c('Ingold','Clinton','Prestage MS'))
+gscorecard1<-gscorecard1[order(-gscorecard1$`4 Week Average`,-gscorecard1$Total),]
 
-gscorecard2<-gscorecard2[order(-gscorecard2$`4 Week Average`,-gscorecard2$Total),]
-
-kbl(x = gscorecard2, align = 'c', digits = 2) %>%
-  column_spec(5,background = ifelse(gscorecard2$TScore>2.99,"limegreen",
-                                    ifelse(gscorecard2$TScore>1.99,"yellow","red"))) %>%
-  column_spec(7,background = ifelse(gscorecard2$DScore>2.99,"limegreen",
-                                    ifelse(gscorecard2$DScore>1.99,"yellow","red"))) %>%
-  column_spec(9,background = ifelse(gscorecard2$BScore>2.99,"limegreen",
-                                    ifelse(gscorecard2$BScore>1.99,"yellow","red"))) %>%
-  column_spec(11,background = ifelse(gscorecard2$IScore>2.99,"limegreen",
-                                    ifelse(gscorecard2$IScore>1.99,"yellow","red"))) %>%
-  column_spec(13,background = ifelse(gscorecard2$`4 Week Average`>10.99,"limegreen",
-                                    ifelse(gscorecard2$`4 Week Average`>8.99,"yellow","red"))) %>%
-  column_spec(14,background = ifelse(gscorecard2$`Quarter Average`>10.99,"limegreen",
-                                    ifelse(gscorecard2$`Quarter Average`>8.99,"yellow","red"))) %>%
+kbl(x = gscorecard1, align = 'c', digits = 2) %>%
+  column_spec(3,background = ifelse(gscorecard1$IScore>3.99,"limegreen",
+                                    ifelse(gscorecard1$IScore>2.99,"yellow",
+                                           ifelse(gscorecard1$IScore>1.99,"orange", "red")))) %>%
+  column_spec(5,background = ifelse(gscorecard1$TScore>2.99,"limegreen",
+                                    ifelse(gscorecard1$TScore>1.99,"yellow","red"))) %>%
+  column_spec(7,background = ifelse(gscorecard1$RScore>1.99,"limegreen",
+                                    ifelse(gscorecard1$RScore>0.99, "yellow","red"))) %>%
+  column_spec(9,background = ifelse(gscorecard1$CScore>0.99,"limegreen","red")) %>%
+  column_spec(11,background = ifelse(gscorecard1$`4 Week Average`>8.99,"limegreen",
+                                    ifelse(gscorecard1$`4 Week Average`>6.99,"yellow","red"))) %>%
+  column_spec(12,background = ifelse(gscorecard1$`Quarter Average`>8.99,"limegreen",
+                                    ifelse(gscorecard1$`Quarter Average`>6.99,"yellow","red"))) %>%
   kable_styling(full_width = T,
                 font_size = 14)
 
@@ -314,14 +302,43 @@ kbl(table6b,align = 'c',digits = 2) %>%
 <br>
 <br>
 
-<h1>Boar Mortality</h1>
+<h1>Removal Reason Error Boars - Production</h1>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-table7a<-read_csv(here::here("data","mort.csv"))
-table7b<-table7a %>% 
-  filter(!`Boar Stud`%in%c('Ingold','Clinton'))
+table23a<-read_csv(here::here("data","sqntboars.csv"))
 
-kbl(table7b,align = 'c',digits = 2) %>% 
+table23b<-table23a %>% 
+  filter(DESCR=='SEMEN QUALITY',
+         `Collections Trashed Consecutively`<6 | is.na(`Collections Trashed Consecutively`))
+
+table23c<-table23a %>% 
+  filter(DESCR=='WILL NOT TRAIN',
+         `Consecutive Failed Collections`<8 | is.na(`Consecutive Failed Collections`))
+
+table23d<-rbind(table23b,table23c)
+
+table23e<-table23d[c(1:4,6,12,13,14)]
+
+kbl(table23e,align = 'c',digits = 2) %>% 
+  kable_styling(full_width = T,
+                font_size = 14)
+```
+
+<br>
+<br>
+<br>
+
+<h1>Removal Reason Error Boars - Index</h1>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+table24a<-read_csv(here::here("data","indexcullerrorboars.csv"))
+
+table24b<-table24a %>% 
+  filter(Date_Studout>=floor_date(x = today(),unit = "week",week_start = 1)-28)
+
+table24c<-table24b[c(1,2,3,6,8,11,15)]
+
+kbl(table24c,align = 'c',digits = 2) %>% 
   kable_styling(full_width = T,
                 font_size = 14)
 ```
@@ -414,12 +431,12 @@ table13a<-read_csv(here::here("data","cull.csv"))
 table13a$WeekCommencing<-as.Date(table13a$WeekCommencing, format="%m/%d/%Y")
 
 table13b<-table13a %>% 
-  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-161) %>% 
+  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-91) %>% 
   group_by(`Boar Stud`) %>% 
   summarise('Total Boars Culled' =sum(`Boars Culled`))
 
 table13c<-table13a %>% 
-  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-161) %>% 
+  filter(WeekCommencing>=floor_date(x = today(),unit = "week",week_start = 7)-91) %>% 
   group_by(`Boar Stud`) %>% 
   summarise('Total Low Index Boars Culled' =sum(`Low Index Culls`))
 
@@ -464,59 +481,24 @@ kbl(table14c,align = 'c', digits = 2) %>%
 <br>
 <br>
 
-<h1>Bottom 5% - SPG120</h1>
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-table15a<-table14a %>% 
-  filter(Breed=='SPG120',
-         rankp<=0.05) %>% 
-  arrange(rank)
-
-table15b<-table15a[c(1:5,8,9)]
-
-kbl(table15b,align = 'c', digits = 2) %>% 
-  kable_styling(full_width = T,
-                font_size = 14)
-```
-
-<br>
-<br>
-<br>
-
-<h1>Bottom 10% - SPG110</h1>
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-table16a<-table14a %>% 
-  filter(Breed=='SPG110',
-         rankp<=0.10) %>% 
-  arrange(rank)
-
-table16b<-table16a[c(1:5,8,9)]
-
-kbl(table16b,align = 'c', digits = 2) %>% 
-  kable_styling(full_width = T,
-                font_size = 14)
-```
-
-<br>
-<br>
-<br>
-
 <h1>4-Week Concentrations</h1>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-table17a<-read_csv(here::here("data","scarddata.csv"))
+table17a<-read_csv(here::here("data","scarddata2.csv"))
 
-table17b<-table17a %>% 
-  filter(StudNum%in%c(2:5,8:12,14:16,21)) %>% 
-  group_by(StudName) %>% 
-  top_n(n = 4,wt = Year_week)
+table17b<-table17a %>%
+  filter(StudName%in%c('7362','ASKI','WILL','ROBE','DEER','LAUR','MACO','CIMA','CYCL','SKYL','YUMA')) %>% 
+  group_by(`Boar Stud`) %>% 
+  top_n(n = 4,wt = yearweek)
+  
+  
   
 
-table17b<-table17b[c(2,3,6)]
+table17b<-table17b[c(15,4,2)]
 
 table17c<-table17b %>% 
-  spread(key = Year_week,value = AVG_Conc_Bill)
+  group_by(`Boar Stud`) %>% 
+  spread(key = yearweek,value = `Average Concentration`)
 
 kbl(table17c,align = 'c') %>% 
   kable_styling(full_width = T,
@@ -541,6 +523,7 @@ table18d<-table18c[c(1,2,5)]
 
 table18e<-table18d %>% 
   group_by(`Boar Stud`) %>% 
+  filter(!`Boar Stud`%in%c('Princeton','High Desert','SPG TX')) %>% 
   top_n(n = 13,wt = Yearweek) %>% 
   spread(key = Yearweek,value = PTotal)
 
@@ -618,20 +601,6 @@ kbl(table21a,align = 'c',digits = 2) %>%
 table22a<-read_csv(here::here("data","hours.csv"))
 
 kbl(table22a,align = 'c',digits = 2) %>% 
-  kable_styling(full_width = T,
-                font_size = 14)
-```
-
-<br>
-<br>
-<br>
-
-<h1>Non-Genetic Removals</h1>
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-table23a<-read_csv(here::here("data","mort2.csv"))
-
-kbl(table23a,align = 'c',digits = 2) %>% 
   kable_styling(full_width = T,
                 font_size = 14)
 ```

@@ -36,7 +36,7 @@ dash10$`Total Score`<-dash10$`Semen QCQA Score`+dash10$`Production Score`+dash10
 dash10$`13 Week Total Score`<-dash10$`13 Week Semen QCQA Score`+dash10$`13 Week Production Score`+dash10$`13 Week Genetic Implementation Score`
 
 dash11<-dash10 %>% 
-  filter(!`Boar Stud`%in%c('MBW Illinois', 'SPGTX'))
+  filter(!`Boar Stud`%in%c('MBW Illinois', 'SPGTX', 'Princeton','High Desert'))
 
 write_csv(dash11,path = here::here("data","dash.csv"))
 

@@ -44,30 +44,24 @@ break8<-break7[!duplicated(break7[c("Boar Stud.x","Collnum")]), ]
 
 break9<-left_join(x = break1, y = break8, by=c("BoarID"="BoarID"))
 
-kokraw$rank<-row_number(-kokraw$Misc_Info)
+# kokraw$rank<-row_number(-kokraw$Misc_Info)
+# 
+# break9a<-left_join(x = break9,y = kokraw, by=c("BoarID"="BoarID"))
+# 
+# break9b<-break9a %>% 
+#   mutate(Breed.x=ifelse(is.na(Spec_Group) ,Breed.x,'KOK'),
+#          Index=ifelse(is.na(Spec_Group),Index,Misc_Info))
+#          
+# 
+# # write_csv(x = break9b, file = here::here("data","1.csv"))
+# 
+# break9b<-break9b[c(-35)]
 
-break9a<-left_join(x = break9,y = kokraw, by=c("BoarID"="BoarID"))
-
-break9b<-break9a %>% 
-  mutate(Breed.x=ifelse(is.na(Misc_Info),Breed.x,
-                        ifelse(rank<201,'KOK',
-                               ifelse(Index>Misc_Info,Breed.x,
-                                      ifelse(Index<95 & Misc_Info>=105,'KOK',Breed.x)))),
-         Index=ifelse(is.na(Misc_Info),Index,
-                      ifelse(rank<201,Misc_Info,
-                             ifelse(Index>Misc_Info,Index,
-                                    ifelse(Index<95 & Misc_Info>=105,Misc_Info,Index)))))
-         
-
-# write_csv(x = break9b, file = here::here("data","1.csv"))
-
-break9b<-break9b[c(-35)]
-
-break10<-break9b %>% 
+break10<-break9 %>% 
   mutate('Collected'=ifelse(`Collection Status`%in%c('US','TR'),'YES', 'NO'),
          'Distributed'=ifelse(is.na(Dest),'NO','YES'))
 
-break11<-break10[c(1:4,10,11,35,17,36,8)]
+break11<-break10[c(1:4,10,11,33,17,34,8)]
 
 break11<-break11[order(break11$`Boar Stud`,break11$Breed.x,-break11$Index),]
 

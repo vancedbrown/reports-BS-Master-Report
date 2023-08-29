@@ -90,9 +90,16 @@ train21$`Percent Trained`<-((train21$`Less Than 4 Collections`+train21$`More Tha
 
 write_csv(x = train21,path = here::here("data","train.csv"),append = FALSE)
 
-train22<-train2 %>%
-  filter(Date_Arrival>=floor_date(x = today(),unit = "week",week_start = 1)-161,
-         Date_Arrival<=floor_date(x = today(),unit = "week",week_start = 1)-14)
+train22a<-train2 %>%
+  filter(Date_Arrival>=floor_date(x = today(),unit = "week",week_start = 1)-105,
+         Date_Arrival<floor_date(x = today(),unit = "week",week_start = 1)-14)
+
+train22b<-train2 %>% 
+  filter(Date_Arrival<floor_date(x = today(),unit = "week",week_start = 1)-14) %>% 
+  group_by(`Boar Stud.x`) %>% 
+  filter(Date_Arrival==max(Date_Arrival))
+
+train22<- rbind(train22a,train22b)
 
 train23<-train22 %>%
   group_by(`Boar Stud`) %>% 
@@ -117,3 +124,40 @@ train26<-left_join(x = train23,y = train25,by=c("Boar Stud"="Boar Stud"))
 train26$`Percent Trained`<-(train26$`Boars Trained Within 14 Days`/train26$`Total Boars`)*100
 
 write_csv(x = train26,path = here::here("data","trained.csv"),append = FALSE)
+
+
+###Recalculate on 13 weeks###
+
+# rtrain1<-read_csv(here::here("data","weekscull.csv"),
+#                   col_types = cols(Reportwk = col_date(format = "%m/%d/%Y")))
+# 
+# rtrain2<-train22 %>% 
+#   group_by(`Boar Stud.x`, Date_Arrival) %>% 
+#   summarise(tb=n_distinct(BoarID))
+# 
+# rtrain3<-train24 %>% 
+#   group_by(`Boar Stud.x`, Date_Arrival) %>% 
+#   filter(train==1) %>% 
+#   summarise(bt=n_distinct(BoarID))
+# 
+# rtrain4<-left_join(x = rtrain2,y = rtrain3, by=c("Boar Stud.x"="Boar Stud.x","Date_Arrival"="Date_Arrival"))
+# 
+# rtrain4[is.na(rtrain4)]<-0
+# 
+# rtrain5<-left_join(x = rtrain1,y = rtrain4, by=c("Boar Stud"="Boar Stud.x"))
+# 
+# rtrain6<-rtrain5 %>% 
+#   filter(Date_Arrival>=Reportwk-105,
+#          Date_Arrival<=Reportwk-14)
+# 
+# rtrain7<-rtrain6 %>% 
+#   group_by(`Boar Stud`,Reportwk) %>% 
+#   summarise(tbs=sum(tb))
+# 
+# rtrain8<-rtrain6 %>% 
+#   group_by(`Boar Stud`,Reportwk) %>% 
+#   summarise(bts=sum(bt))
+# 
+# rtrain9<-left_join(x = rtrain7,y = rtrain8,by=c("Boar Stud"="Boar Stud","Reportwk"="Reportwk"))
+# 
+# write_csv(x = rtrain9,file = here::here("data","newtrain.csv"))
