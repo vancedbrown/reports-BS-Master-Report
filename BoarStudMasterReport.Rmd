@@ -31,7 +31,6 @@ library(readr)
 library(here)
 library(kableExtra)
 
-##MODIFY Cull.R and GCard2.R to add weeks for removal reason errors###
 
 # source(here::here("scripts","14day.R"))
 # source(here::here("scripts","Batch.R"))
@@ -113,11 +112,14 @@ kbl(x = dashboard1, align = 'c', digits = 1) %>%
 <h1>Semen Scorecard</h1>
 
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 sscorecard1<-read_csv(here::here("data","scard2.csv"))
 sscorecard2<-read_csv(here::here("inputs","semkey.csv"))
 
 sscorecard1<-sscorecard1[order(-sscorecard1$`13 Week Average`,-sscorecard1$Total),]
+
+sscorecard1<-sscorecard1 %>% 
+  filter(!`Boar Stud`%in%c('MB 7081','SPG9644'))
 
 kbl(x = sscorecard1, align = 'c', digits = 1) %>%
   column_spec(4,background = ifelse(sscorecard1$CScore>3.99,"limegreen",

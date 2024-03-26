@@ -1,6 +1,6 @@
 Category,Excellent,OK,Needs.Attention
-Missed Index,<$0.25,$0.25-$0.50,$0.50-$0.75
+Missed Index,<0.10,0.10-0.30,0.30 or greater
+Percent Trained,>90%,80-90%,less than 80%
 Days Rest,6-8,5-6 | 8-9,4-5 | 9-10
-Percent Trained,>90%,80-90%,70-80%
-% Boars Culled in Bottom 25%,>50%,40-50%,30-40%
-4 Week and Quarterly Average,12-10,10-8,<8
+Removal Reason Errors,None,None,1 or greater
+4 Week and Quarterly Average,9-10,7-9,<7

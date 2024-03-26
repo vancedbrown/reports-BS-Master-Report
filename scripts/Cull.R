@@ -105,6 +105,8 @@ cull16<- read_csv(here::here("data","semenculls.csv"))
 cull17<- read_csv(here::here("data","trainingculls.csv"))
 
 cull17$BoarID<-as.character(cull17$BoarID)
+cull16$BoarID<-as.character(cull16$BoarID)
+
 cull18<-left_join(x = cull15,y = cull16, by=c("BoarID"="BoarID"))
 cull19<-left_join(x = cull18,y = cull17, by=c("BoarID"="BoarID"))
 
