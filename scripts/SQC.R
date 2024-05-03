@@ -25,6 +25,7 @@ sqc4<-sqc3 %>%
   filter(n>=10)
 
 sqc5<- sqc4 %>% 
+  filter(`Collection Status`!='NC') %>% 
   arrange(Col_Date) %>% 
   group_by(BoarID) %>% 
   top_n(6,Col_Date)
@@ -57,7 +58,7 @@ write_csv(x = sqc13,path = here::here("data","sqc.csv"),append = FALSE)
 
 
 sqc14<-sqc1 %>% 
-  filter(`Boar Status`=='CULLED',
+  filter(`Boar Status`%in%c('CULLED','DEAD'),
          Date_Studout<floor_date(x = today(),unit = "week", week_start = 7),
          Date_Studout>=floor_date(x = today(),unit= "week", week_start = 7)-91) %>% 
   group_by(BoarID) %>% 
@@ -69,6 +70,7 @@ sqc16<-sqc15 %>%
   filter(n>=10)
 
 sqc17<- sqc16 %>% 
+  filter(`Collection Status`!='NC') %>% 
   arrange(Col_Date) %>% 
   group_by(BoarID) %>% 
   top_n(6,Col_Date)

@@ -62,7 +62,7 @@ cull8<-left_join(x = cull6,y = cull7,by=c("Boar Stud.x"="Boar Stud.x"))
 cull8[is.na(cull8)]<-0
 
 cull8$WeekCommencing<-floor_date(x = today(),unit= "week", week_start = 7)-7
-cull8$WeekCommencing<-as.Date(x = cull8$WeekCommencing, format='%mm/%dd/%YYYY')
+cull8$WeekCommencing<-format(cull8$WeekCommencing, "%m/%d/%Y")
 
 
 write_csv(x = cull8,path = here::here("data","cullopen.csv"),append = TRUE, col_names = FALSE)
@@ -76,7 +76,8 @@ cull10<-cull9
 cull10$week<-floor_date(x = today(),unit = "week",week_start = 1)-7
 
 cull11<-cull10 %>% 
-  filter(DESCR=='LOW INDEX',
+  filter(!BoarID%in%c('16198','16017'),
+         DESCR=='LOW INDEX',
          Percentile<=0.75)
 
 write_csv(x = cull11,path = here::here("data","indexcullerrorboars.csv"), append = TRUE)
@@ -114,7 +115,8 @@ cull20<-cull19 %>%
   filter(DESCR%in%c('WILL NOT TRAIN','SEMEN QUALITY'))
 
 cull21<-cull20 %>% 
-  filter(DESCR=='SEMEN QUALITY',
+  filter(BoarID!='2097962',
+         DESCR=='SEMEN QUALITY',
          `Collections Trashed Consecutively`<6 | is.na(`Collections Trashed Consecutively`)) %>% 
   group_by(`Boar Stud.x`) %>% 
   summarise('Semen Quality Cull Errors'=n_distinct(BoarID))

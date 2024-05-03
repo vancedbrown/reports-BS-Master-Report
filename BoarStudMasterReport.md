@@ -22,7 +22,7 @@ output:
 
 <br>
 
-<h2><center>2024 Week 12</h2>
+<h2><center>2024 Week 17</h2>
 
 <br>
 <br>
@@ -44,24 +44,24 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
+   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.7 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.8 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 28.7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 27 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 28.8 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> MB 7092 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.3 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.6 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.6 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.8 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 30 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 28.7 </td>
   </tr>
@@ -71,6 +71,17 @@ output:
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10.0 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 28.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.6 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.4 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 30 </td>
@@ -80,89 +91,78 @@ output:
    <td style="text-align:center;"> MB 7082 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.1 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 28.2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.7 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 29 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 27.3 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.4 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.2 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 26 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 27.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;background-color: red !important;"> 6 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.6 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
-   <td style="text-align:center;background-color: red !important;"> 6 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.1 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 22 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 26.2 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 27.8 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.9 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 26.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.7 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.5 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 27 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 25.4 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.3 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 26.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.3 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.0 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 26 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 25.1 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.6 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 25 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 25.7 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;background-color: white !important;"> NA </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.7 </td>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
-   <td style="text-align:center;background-color: red !important;"> 6 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.5 </td>
-   <td style="text-align:center;background-color: white !important;"> NA </td>
-   <td style="text-align:center;background-color: yellow !important;"> 24.8 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7 </td>
+   <td style="text-align:center;background-color: red !important;"> 6.9 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 27 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 25.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.8 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.2 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
+   <td style="text-align:center;background-color: red !important;"> 5 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.1 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 23 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 25.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7081 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 28 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 23.9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.1 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.1 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 26 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 25.1 </td>
   </tr>
 </tbody>
 </table>
@@ -194,169 +194,169 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> MB 7093 </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 40.6 </td>
+   <td style="text-align:center;"> 40.1 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 85.0 </td>
+   <td style="text-align:center;"> 82.7 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 45.6 </td>
+   <td style="text-align:center;"> 42.1 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7092 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 40.0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 80.2 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 43.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7082 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 41.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 69.0 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 2 </td>
+   <td style="text-align:center;"> 46.3 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 38.1 </td>
+   <td style="text-align:center;background-color: orange !important;"> 2 </td>
+   <td style="text-align:center;"> 87.7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 46.0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: red !important;"> 0 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 39.0 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 3 </td>
-   <td style="text-align:center;"> 74.6 </td>
+   <td style="text-align:center;"> 40.8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 73.0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 44.0 </td>
+   <td style="text-align:center;"> 44.6 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 39.8 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 3 </td>
-   <td style="text-align:center;"> 75.4 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 42.9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 39.3 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 3 </td>
-   <td style="text-align:center;"> 79.1 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 42.8 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.5 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 42.9 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 40.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 77.6 </td>
+   <td style="text-align:center;"> 76.2 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 45.4 </td>
+   <td style="text-align:center;"> 44.6 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;"> 39.9 </td>
    <td style="text-align:center;background-color: yellow !important;"> 3 </td>
-   <td style="text-align:center;"> 74.6 </td>
+   <td style="text-align:center;"> 74.4 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 44.0 </td>
+   <td style="text-align:center;"> 43.4 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 38.5 </td>
-   <td style="text-align:center;background-color: orange !important;"> 2 </td>
-   <td style="text-align:center;"> 77.3 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 41.0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 8 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 39.2 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 3 </td>
-   <td style="text-align:center;"> 76.0 </td>
+   <td style="text-align:center;"> MBW Cyclone </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 37.9 </td>
+   <td style="text-align:center;background-color: red !important;"> 1 </td>
+   <td style="text-align:center;"> 83.0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 43.2 </td>
+   <td style="text-align:center;"> 44.0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.0 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 40.7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 87.2 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 47.4 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 9 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.7 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 37.3 </td>
-   <td style="text-align:center;background-color: red !important;"> 1 </td>
-   <td style="text-align:center;"> 81.2 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 47.1 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 1 </td>
-   <td style="text-align:center;"> 0.0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.0 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.6 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 42.4 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 41.5 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 78.3 </td>
+   <td style="text-align:center;"> 79.4 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 43.7 </td>
+   <td style="text-align:center;"> 43.3 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 66.7 </td>
-   <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.2 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.8 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.8 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.2 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> SPG Farm 62 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 32.5 </td>
-   <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 68.2 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 2 </td>
-   <td style="text-align:center;"> 47.6 </td>
+   <td style="text-align:center;"> MB 7081 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 43.9 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 77.0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 49.5 </td>
    <td style="text-align:center;background-color: yellow !important;"> 1 </td>
-   <td style="text-align:center;"> 0.0 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.0 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.3 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.2 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.1 </td>
   </tr>
 </tbody>
 </table>
@@ -429,158 +429,158 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 1.80 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 4.48 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 0.88 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.52 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 1.47 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.54 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2.43 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 4.67 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.69 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 0.08 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.21 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.32 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.23 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 0.95 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 1.05 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.44 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 2.84 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.92 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 0.03 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;"> 0.25 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.54 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 1.34 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 1.61 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.62 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 1.36 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 1.18 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0.69 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.46 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 0.91 </td>
+   <td style="text-align:center;"> 0.92 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.27 </td>
+   <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 0.49 </td>
+   <td style="text-align:center;"> 0.54 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 4.05 </td>
+   <td style="text-align:center;"> 3.88 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.25 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.23 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.77 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 0.62 </td>
+   <td style="text-align:center;"> MBW Yuma </td>
+   <td style="text-align:center;"> 1.58 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 2.16 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 2 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 3.37 </td>
+   <td style="text-align:center;"> 3.49 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.25 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.08 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> 0.75 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.85 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 1.12 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 1.92 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 2.38 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.75 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.54 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 1.54 </td>
+   <td style="text-align:center;"> 0.98 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 2.58 </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.31 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 0.98 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 5.81 </td>
+   <td style="text-align:center;background-color: red !important;"> 1 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 2.84 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.23 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7092 </td>
+   <td style="text-align:center;"> 2.93 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 3.76 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.25 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.54 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 0.10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.25 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.46 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7082 </td>
+   <td style="text-align:center;"> 0.57 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 3.95 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.75 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.85 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7081 </td>
+   <td style="text-align:center;"> 0.94 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 1.41 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 1.05 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;background-color: yellow !important;"> 8.50 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.31 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.08 </td>
   </tr>
 </tbody>
 </table>
@@ -653,32 +653,46 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 91.86 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 7.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.92 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7092 </td>
    <td style="text-align:center;"> 0.01 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
    <td style="text-align:center;"> 100.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 7.33 </td>
+   <td style="text-align:center;"> 7.19 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.85 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 94.83 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 6.82 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.77 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Yuma </td>
+   <td style="text-align:center;"> 0.20 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 3 </td>
+   <td style="text-align:center;"> 94.74 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 7.02 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.75 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.85 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 10.00 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.54 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
@@ -686,125 +700,111 @@ output:
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
    <td style="text-align:center;"> 100.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 7.85 </td>
+   <td style="text-align:center;"> 7.19 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.85 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.38 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 96.49 </td>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 0.89 </td>
+   <td style="text-align:center;background-color: red !important;"> 0 </td>
+   <td style="text-align:center;"> 97.10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 7.25 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 8.29 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 1 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.25 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.62 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.50 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.08 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;"> MB 7082 </td>
+   <td style="text-align:center;"> 0.03 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 94.74 </td>
+   <td style="text-align:center;"> 93.15 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 6.80 </td>
+   <td style="text-align:center;"> 6.62 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 9.00 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 9.38 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 0.06 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 90.91 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 10.75 </td>
-   <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.00 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.46 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 1.39 </td>
-   <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 90.11 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 7.40 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.00 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.08 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 0.03 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 97.10 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 8.44 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 1 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.75 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.15 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.69 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 0.32 </td>
-   <td style="text-align:center;background-color: red !important;"> 1 </td>
-   <td style="text-align:center;"> 90.00 </td>
+   <td style="text-align:center;"> 0.21 </td>
+   <td style="text-align:center;background-color: orange !important;"> 2 </td>
+   <td style="text-align:center;"> 90.57 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
-   <td style="text-align:center;"> 8.76 </td>
+   <td style="text-align:center;"> 8.14 </td>
    <td style="text-align:center;background-color: yellow !important;"> 1 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.75 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.54 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 9.00 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 0.01 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 93.48 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 7.50 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;background-color: red !important;"> 0 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.75 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.31 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 0.05 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
+   <td style="text-align:center;"> 81.95 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 2 </td>
+   <td style="text-align:center;"> 6.70 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.50 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.92 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 0.01 </td>
+   <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
-   <td style="text-align:center;"> 83.33 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 2 </td>
-   <td style="text-align:center;"> 8.71 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 1 </td>
+   <td style="text-align:center;"> 98.53 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 3 </td>
+   <td style="text-align:center;"> 9.44 </td>
+   <td style="text-align:center;background-color: red !important;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.50 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.00 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 8.00 </td>
+   <td style="text-align:center;background-color: yellow !important;"> 7.62 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 0.03 </td>
+   <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 4 </td>
    <td style="text-align:center;"> 37.50 </td>
    <td style="text-align:center;background-color: red !important;"> 0 </td>
-   <td style="text-align:center;"> 7.20 </td>
+   <td style="text-align:center;"> 6.93 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 2 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 1 </td>
    <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 7.00 </td>
-   <td style="text-align:center;background-color: yellow !important;"> 8.15 </td>
+   <td style="text-align:center;background-color: red !important;"> 6.50 </td>
+   <td style="text-align:center;background-color: red !important;"> 6.92 </td>
   </tr>
 </tbody>
 </table>
@@ -874,113 +874,113 @@ output:
 <tbody>
   <tr>
    <td style="text-align:left;"> MB 7081 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 219 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:right;"> 213 </td>
    <td style="text-align:right;"> 200 </td>
-   <td style="text-align:right;"> 218 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 5066 </td>
+   <td style="text-align:right;"> 213 </td>
+   <td style="text-align:right;"> 0 </td>
+   <td style="text-align:right;"> 5162 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MB 7082 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 185 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:right;"> 175 </td>
    <td style="text-align:right;"> 200 </td>
-   <td style="text-align:right;"> 176 </td>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 4839 </td>
+   <td style="text-align:right;"> 175 </td>
+   <td style="text-align:right;"> 0 </td>
+   <td style="text-align:right;"> 4585 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MB 7092 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 452 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:right;"> 401 </td>
    <td style="text-align:right;"> 250 </td>
-   <td style="text-align:right;"> 447 </td>
-   <td style="text-align:right;"> 5 </td>
-   <td style="text-align:right;"> 12805 </td>
+   <td style="text-align:right;"> 399 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 12655 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MB 7093 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 486 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:right;"> 479 </td>
    <td style="text-align:right;"> 450 </td>
-   <td style="text-align:right;"> 480 </td>
-   <td style="text-align:right;"> 6 </td>
-   <td style="text-align:right;"> 12830 </td>
+   <td style="text-align:right;"> 471 </td>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:right;"> 13369 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MB 7094 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 476 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:right;"> 465 </td>
    <td style="text-align:right;"> 450 </td>
-   <td style="text-align:right;"> 470 </td>
-   <td style="text-align:right;"> 6 </td>
-   <td style="text-align:right;"> 12921 </td>
+   <td style="text-align:right;"> 450 </td>
+   <td style="text-align:right;"> 15 </td>
+   <td style="text-align:right;"> 11404 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MBW Cimarron </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 371 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:left;"> 2024-04-28 </td>
+   <td style="text-align:right;"> 318 </td>
    <td style="text-align:right;"> 399 </td>
-   <td style="text-align:right;"> 332 </td>
-   <td style="text-align:right;"> 39 </td>
-   <td style="text-align:right;"> 6653 </td>
+   <td style="text-align:right;"> 273 </td>
+   <td style="text-align:right;"> 45 </td>
+   <td style="text-align:right;"> 6513 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MBW Cyclone </td>
-   <td style="text-align:left;"> 2024-03-22 </td>
-   <td style="text-align:left;"> 2024-03-22 </td>
-   <td style="text-align:right;"> 244 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:right;"> 275 </td>
    <td style="text-align:right;"> 403 </td>
-   <td style="text-align:right;"> 210 </td>
-   <td style="text-align:right;"> 34 </td>
-   <td style="text-align:right;"> 6692 </td>
+   <td style="text-align:right;"> 269 </td>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> 6944 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MBW Yuma </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 154 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:right;"> 166 </td>
    <td style="text-align:right;"> 203 </td>
-   <td style="text-align:right;"> 154 </td>
+   <td style="text-align:right;"> 166 </td>
    <td style="text-align:right;"> 0 </td>
-   <td style="text-align:right;"> 3031 </td>
+   <td style="text-align:right;"> 3135 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Skyline Boar Stud </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 243 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:right;"> 235 </td>
    <td style="text-align:right;"> 200 </td>
-   <td style="text-align:right;"> 225 </td>
-   <td style="text-align:right;"> 18 </td>
-   <td style="text-align:right;"> 2417 </td>
+   <td style="text-align:right;"> 210 </td>
+   <td style="text-align:right;"> 25 </td>
+   <td style="text-align:right;"> 2730 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPGNC </td>
-   <td style="text-align:left;"> 2024-03-22 </td>
-   <td style="text-align:left;"> 2024-03-22 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
+   <td style="text-align:left;"> 2024-04-26 </td>
    <td style="text-align:right;"> 184 </td>
    <td style="text-align:right;"> 220 </td>
    <td style="text-align:right;"> 184 </td>
    <td style="text-align:right;"> 0 </td>
-   <td style="text-align:right;"> 4315 </td>
+   <td style="text-align:right;"> 3993 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPGVA </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:left;"> 2024-03-25 </td>
-   <td style="text-align:right;"> 254 </td>
+   <td style="text-align:left;"> 2024-04-27 </td>
+   <td style="text-align:left;"> 2024-04-27 </td>
+   <td style="text-align:right;"> 260 </td>
    <td style="text-align:right;"> 292 </td>
-   <td style="text-align:right;"> 251 </td>
-   <td style="text-align:right;"> 3 </td>
-   <td style="text-align:right;"> 4483 </td>
+   <td style="text-align:right;"> 255 </td>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:right;"> 4583 </td>
   </tr>
 </tbody>
 </table>
@@ -1010,16 +1010,6 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2023-12-19 </td>
-   <td style="text-align:center;"> 30 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 30 </td>
-   <td style="text-align:center;"> 100.00 </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7094 </td>
    <td style="text-align:center;"> 2024-02-06 </td>
    <td style="text-align:center;"> 69 </td>
@@ -1035,18 +1025,8 @@ output:
    <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> 100.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2024-02-26 </td>
-   <td style="text-align:center;"> 23 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 100.00 </td>
   </tr>
   <tr>
@@ -1055,49 +1035,9 @@ output:
    <td style="text-align:center;"> 86 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 81 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 82 </td>
    <td style="text-align:center;"> 100.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 2024-03-01 </td>
-   <td style="text-align:center;"> 37 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 23 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> 97.30 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2024-03-04 </td>
-   <td style="text-align:center;"> 24 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> 12 </td>
-   <td style="text-align:center;"> 100.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 2024-03-12 </td>
-   <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 22 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 92.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 2024-03-12 </td>
-   <td style="text-align:center;"> 29 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 26 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 89.66 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
@@ -1105,19 +1045,79 @@ output:
    <td style="text-align:center;"> 80 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 80 </td>
-   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 79 </td>
    <td style="text-align:center;"> 100.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
    <td style="text-align:center;"> 2024-03-20 </td>
    <td style="text-align:center;"> 34 </td>
-   <td style="text-align:center;"> 9 </td>
-   <td style="text-align:center;"> 13 </td>
-   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 35.29 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 94.12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cyclone </td>
+   <td style="text-align:center;"> 2024-03-25 </td>
+   <td style="text-align:center;"> 68 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 65 </td>
+   <td style="text-align:center;"> 100.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7082 </td>
+   <td style="text-align:center;"> 2024-04-01 </td>
+   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 95.45 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2024-04-01 </td>
+   <td style="text-align:center;"> 29 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 28 </td>
+   <td style="text-align:center;"> 100.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7081 </td>
+   <td style="text-align:center;"> 2024-04-16 </td>
+   <td style="text-align:center;"> 23 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 23 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 100.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGNC </td>
+   <td style="text-align:center;"> 2024-04-16 </td>
+   <td style="text-align:center;"> 35 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 33 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 94.29 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Yuma </td>
+   <td style="text-align:center;"> 2024-04-22 </td>
+   <td style="text-align:center;"> 40 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 27 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 67.50 </td>
   </tr>
 </tbody>
 </table>
@@ -1140,15 +1140,15 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 60 </td>
-   <td style="text-align:center;"> 54 </td>
-   <td style="text-align:center;"> 90.00 </td>
+   <td style="text-align:center;"> 53 </td>
+   <td style="text-align:center;"> 48 </td>
+   <td style="text-align:center;"> 90.57 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 86 </td>
-   <td style="text-align:center;"> 79 </td>
-   <td style="text-align:center;"> 91.86 </td>
+   <td style="text-align:center;"> 73 </td>
+   <td style="text-align:center;"> 68 </td>
+   <td style="text-align:center;"> 93.15 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
@@ -1158,8 +1158,8 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 60 </td>
-   <td style="text-align:center;"> 60 </td>
+   <td style="text-align:center;"> 80 </td>
+   <td style="text-align:center;"> 80 </td>
    <td style="text-align:center;"> 100.00 </td>
   </tr>
   <tr>
@@ -1170,15 +1170,15 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 99 </td>
-   <td style="text-align:center;"> 90 </td>
-   <td style="text-align:center;"> 90.91 </td>
+   <td style="text-align:center;"> 133 </td>
+   <td style="text-align:center;"> 109 </td>
+   <td style="text-align:center;"> 81.95 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 30 </td>
-   <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> 83.33 </td>
+   <td style="text-align:center;"> 68 </td>
+   <td style="text-align:center;"> 67 </td>
+   <td style="text-align:center;"> 98.53 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
@@ -1194,15 +1194,15 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 57 </td>
+   <td style="text-align:center;"> 58 </td>
    <td style="text-align:center;"> 55 </td>
-   <td style="text-align:center;"> 96.49 </td>
+   <td style="text-align:center;"> 94.83 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 91 </td>
-   <td style="text-align:center;"> 82 </td>
-   <td style="text-align:center;"> 90.11 </td>
+   <td style="text-align:center;"> 92 </td>
+   <td style="text-align:center;"> 86 </td>
+   <td style="text-align:center;"> 93.48 </td>
   </tr>
 </tbody>
 </table>
@@ -1228,11 +1228,41 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2097962 </td>
+   <td style="text-align:center;"> MBW Yuma </td>
+   <td style="text-align:center;"> 40316 </td>
+   <td style="text-align:center;"> TNLR </td>
+   <td style="text-align:center;"> CULLED </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2068835 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> CULLED </td>
-   <td style="text-align:center;"> 2024-03-11 </td>
+   <td style="text-align:center;"> 2024-04-02 </td>
+   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2097874 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> CULLED </td>
+   <td style="text-align:center;"> 2024-04-02 </td>
+   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2099922 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> CULLED </td>
+   <td style="text-align:center;"> 2024-04-02 </td>
    <td style="text-align:center;"> SEMEN QUALITY </td>
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> NA </td>
@@ -1278,96 +1308,96 @@ output:
    <th style="text-align:center;"> Collections </th>
    <th style="text-align:center;"> Treatments </th>
    <th style="text-align:center;"> Lutalyse Usage </th>
-   <th style="text-align:center;"> 202408 </th>
-   <th style="text-align:center;"> 202409 </th>
-   <th style="text-align:center;"> 202410 </th>
-   <th style="text-align:center;"> 202411 </th>
+   <th style="text-align:center;"> 202413 </th>
+   <th style="text-align:center;"> 202414 </th>
+   <th style="text-align:center;"> 202415 </th>
+   <th style="text-align:center;"> 202416 </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 68 </td>
+   <td style="text-align:center;"> 95 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1.47 </td>
-   <td style="text-align:center;"> 3.53 </td>
-   <td style="text-align:center;"> 1.02 </td>
-   <td style="text-align:center;"> 2.08 </td>
+   <td style="text-align:center;"> 1.05 </td>
+   <td style="text-align:center;"> 4.40 </td>
+   <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;"> 0.00 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 89 </td>
+   <td style="text-align:center;"> 76 </td>
    <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3.37 </td>
-   <td style="text-align:center;"> 3.03 </td>
-   <td style="text-align:center;"> 3.33 </td>
-   <td style="text-align:center;"> 3.33 </td>
-   <td style="text-align:center;"> 3.37 </td>
+   <td style="text-align:center;"> 3.95 </td>
+   <td style="text-align:center;"> 3.53 </td>
+   <td style="text-align:center;"> 3.61 </td>
+   <td style="text-align:center;"> 7.79 </td>
+   <td style="text-align:center;"> 4.05 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 364 </td>
-   <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> 4.67 </td>
-   <td style="text-align:center;"> 3.19 </td>
-   <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 3.73 </td>
-   <td style="text-align:center;"> 2.95 </td>
+   <td style="text-align:center;"> 399 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 3.76 </td>
+   <td style="text-align:center;"> 5.03 </td>
+   <td style="text-align:center;"> 4.68 </td>
+   <td style="text-align:center;"> 6.16 </td>
+   <td style="text-align:center;"> 6.25 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 309 </td>
+   <td style="text-align:center;"> 406 </td>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0.32 </td>
-   <td style="text-align:center;"> 3.40 </td>
-   <td style="text-align:center;"> 3.67 </td>
-   <td style="text-align:center;"> 1.62 </td>
-   <td style="text-align:center;"> 1.07 </td>
+   <td style="text-align:center;"> 0.25 </td>
+   <td style="text-align:center;"> 0.51 </td>
+   <td style="text-align:center;"> 0.56 </td>
+   <td style="text-align:center;"> 2.01 </td>
+   <td style="text-align:center;"> 0.69 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
    <td style="text-align:center;"> 388 </td>
    <td style="text-align:center;"> 11 </td>
    <td style="text-align:center;"> 2.84 </td>
-   <td style="text-align:center;"> 2.72 </td>
-   <td style="text-align:center;"> 1.11 </td>
-   <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;"> 2.72 </td>
+   <td style="text-align:center;"> 0.74 </td>
+   <td style="text-align:center;"> 2.20 </td>
+   <td style="text-align:center;"> 3.17 </td>
+   <td style="text-align:center;"> 5.42 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 247 </td>
-   <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 4.05 </td>
-   <td style="text-align:center;"> 2.11 </td>
-   <td style="text-align:center;"> 2.23 </td>
-   <td style="text-align:center;"> 3.29 </td>
-   <td style="text-align:center;"> 4.07 </td>
+   <td style="text-align:center;"> 206 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 3.88 </td>
+   <td style="text-align:center;"> 2.90 </td>
+   <td style="text-align:center;"> 4.17 </td>
+   <td style="text-align:center;"> 3.77 </td>
+   <td style="text-align:center;"> 1.65 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 194 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 2.58 </td>
-   <td style="text-align:center;"> 2.60 </td>
-   <td style="text-align:center;"> 2.84 </td>
-   <td style="text-align:center;"> 3.43 </td>
-   <td style="text-align:center;"> 2.29 </td>
+   <td style="text-align:center;"> 199 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 4.71 </td>
+   <td style="text-align:center;"> 1.82 </td>
+   <td style="text-align:center;"> 1.20 </td>
+   <td style="text-align:center;"> 2.96 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 67 </td>
+   <td style="text-align:center;"> 86 </td>
    <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 3.49 </td>
    <td style="text-align:center;"> 4.48 </td>
-   <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 3.70 </td>
-   <td style="text-align:center;"> 3.95 </td>
-   <td style="text-align:center;"> 4.48 </td>
+   <td style="text-align:center;"> 3.16 </td>
+   <td style="text-align:center;"> 3.26 </td>
+   <td style="text-align:center;"> 3.26 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 184 </td>
+   <td style="text-align:center;"> 174 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0.00 </td>
    <td style="text-align:center;"> 0.00 </td>
@@ -1377,23 +1407,23 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 124 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 1.61 </td>
-   <td style="text-align:center;"> 2.65 </td>
-   <td style="text-align:center;"> 0.81 </td>
-   <td style="text-align:center;"> 2.14 </td>
+   <td style="text-align:center;"> 111 </td>
+   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0.00 </td>
+   <td style="text-align:center;"> 2.42 </td>
+   <td style="text-align:center;"> 0.81 </td>
+   <td style="text-align:center;"> 1.47 </td>
+   <td style="text-align:center;"> 0.85 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 144 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0.69 </td>
-   <td style="text-align:center;"> 6.94 </td>
-   <td style="text-align:center;"> 2.96 </td>
-   <td style="text-align:center;"> 4.32 </td>
-   <td style="text-align:center;"> 3.88 </td>
+   <td style="text-align:center;"> 126 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 2.38 </td>
+   <td style="text-align:center;"> 2.19 </td>
+   <td style="text-align:center;"> 5.65 </td>
+   <td style="text-align:center;"> 2.52 </td>
+   <td style="text-align:center;"> 0.81 </td>
   </tr>
 </tbody>
 </table>
@@ -1443,231 +1473,11 @@ output:
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 64465 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-15 </td>
-   <td style="text-align:center;"> NA </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2068145 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-15 </td>
-   <td style="text-align:center;"> FEETANDLEGS </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2079864 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> BEHAVIOR </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2104393 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-08 </td>
-   <td style="text-align:center;"> ANATOMY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2105032 </td>
-   <td style="text-align:center;"> SPG910 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-05 </td>
-   <td style="text-align:center;"> ANATOMY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 6814H </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-08 </td>
-   <td style="text-align:center;"> BEHAVIOR </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 70345 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-05 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 70416 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-11 </td>
-   <td style="text-align:center;"> FEETANDLEGS </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 70447 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-02-26 </td>
-   <td style="text-align:center;"> FEETANDLEGS </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 70481 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-25 </td>
-   <td style="text-align:center;"> ANATOMY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 70483 </td>
-   <td style="text-align:center;"> PICL02 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-02-28 </td>
-   <td style="text-align:center;"> ANATOMY </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 1450750 </td>
+   <td style="text-align:center;"> 2067918 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-18 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2031007 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2063235 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -1676,31 +1486,16 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2067914 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-18 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> Semen quality </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2071411 </td>
+   <td style="text-align:center;"> 2068884 </td>
    <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -1708,62 +1503,59 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-17 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> Semen quality </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2087740 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2074480 </td>
+   <td style="text-align:center;"> 2031525 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-24 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2085238 </td>
+   <td style="text-align:center;"> 2058752 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-21 </td>
+   <td style="text-align:center;"> SEMEN QUALITY </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;"> 2085249 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-25 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-17 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
@@ -1772,14 +1564,14 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-24 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-21 </td>
    <td style="text-align:center;"> SEMEN QUALITY </td>
   </tr>
   <tr>
@@ -1788,50 +1580,67 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-24 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2106242 </td>
+   <td style="text-align:center;"> 2106319 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> 2024-04-28 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;"> 2116956 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-24 </td>
-   <td style="text-align:center;"> FEET AND LEGS </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2106552 </td>
+   <td style="text-align:center;"> 2117083 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-24 </td>
-   <td style="text-align:center;"> FEET AND LEGS </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
@@ -1865,6 +1674,23 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> 2024-02-28 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2065800 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-15 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -1903,6 +1729,40 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2068682 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-04 </td>
+   <td style="text-align:center;"> SEMEN QC </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2068708 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-12 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
    <td style="text-align:center;"> 2080874 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
@@ -1936,332 +1796,129 @@ output:
    <td style="text-align:center;"> FEETANDLEGS </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16017 </td>
-   <td style="text-align:center;"> DNA200 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2106735 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16064 </td>
-   <td style="text-align:center;"> DNA200 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16130 </td>
-   <td style="text-align:center;"> DNA200 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16132 </td>
-   <td style="text-align:center;"> DNA200 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16147 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16150 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16168 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16169 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16176 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16179 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16180 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16181 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16182 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16187 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> index </td>
+   <td style="text-align:center;"> FEETANDLEGS </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2106966 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-12 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2107085 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-01 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2107088 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-08 </td>
+   <td style="text-align:center;"> SEMEN QC </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2107169 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-01 </td>
+   <td style="text-align:center;"> SEMEN QC </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2107170 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-01 </td>
+   <td style="text-align:center;"> SENMEN QC </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16196 </td>
+   <td style="text-align:center;"> 16192 </td>
    <td style="text-align:center;"> DNA200 </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> INDEX </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16198 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16203 </td>
+   <td style="text-align:center;"> 16202 </td>
    <td style="text-align:center;"> DNA400 </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16225 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 16238 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2015152 </td>
-   <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -2271,491 +1928,744 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2018672 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2037193 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2052563 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2052579 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2052580 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2052720 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
    <td style="text-align:center;"> SEMEN </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2052783 </td>
-   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 16243 </td>
+   <td style="text-align:center;"> TNLR </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059051 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059068 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
+   <td style="text-align:center;"> 2024-04-22 </td>
    <td style="text-align:center;"> index </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059458 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059655 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> Index </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059703 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059781 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2066794 </td>
-   <td style="text-align:center;"> SPG910 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2069042 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMENQUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2069141 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2073728 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074068 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074235 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074291 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074295 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074404 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2074464 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2103772 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2104271 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> semen quality </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2105679 </td>
-   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 16256 </td>
+   <td style="text-align:center;"> TNLR </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NC </td>
    <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> twisted gut </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2014902 </td>
+   <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
    <td style="text-align:center;"> BEHAVIOR </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10121 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> NP </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2015246 </td>
+   <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10164 </td>
-   <td style="text-align:center;"> DNA400 </td>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2015334 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2037104 </td>
+   <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> NP </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2037194 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> low index </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2037211 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2050818 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2050900 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2050919 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> semen growth </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2052582 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2052795 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2052813 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2052918 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2058980 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2058983 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059223 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059263 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059442 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059539 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059597 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2059667 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2066735 </td>
+   <td style="text-align:center;"> SPG910 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2069015 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2069144 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2069160 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2069291 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> growth </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2073652 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2073723 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2073769 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2073770 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2074197 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> INDEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2074255 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2074282 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2074399 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-20 </td>
+   <td style="text-align:center;"> prrs positive </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2074463 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-04-18 </td>
+   <td style="text-align:center;"> index </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109272 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> WILL NOT TRAIN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109305 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109365 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109367 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109388 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109656 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-23 </td>
+   <td style="text-align:center;"> SEMEN </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
    <td style="text-align:center;"> 10177 </td>
    <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
@@ -2765,93 +2675,9 @@ output:
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10183 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> NP </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10192 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> NP </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10197 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-13 </td>
-   <td style="text-align:center;"> SEMEN  QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10206 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 10219 </td>
-   <td style="text-align:center;"> DNA400 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
-   <td style="text-align:center;"> SQ </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
@@ -2862,200 +2688,13 @@ output:
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-15 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2054717 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2054812 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2070211 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2073896 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085455 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
-   <td style="text-align:center;"> sq </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085577 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NP </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085806 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085811 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085820 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> feet and legs </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085822 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
-   <td style="text-align:center;"> sq </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2085832 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SQ </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
@@ -3067,96 +2706,11 @@ output:
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2086018 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
-   <td style="text-align:center;"> sq </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2086199 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2096445 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> LOW INDEX </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2096513 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2096564 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> LOW INDEX </td>
   </tr>
   <tr>
@@ -3165,7 +2719,6 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NP </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -3173,12 +2726,13 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> sq </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2096659 </td>
+   <td style="text-align:center;"> 2103084 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -3190,63 +2744,12 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103063 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103471 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> SEMEN QUALITY </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103540 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> NC </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-14 </td>
-   <td style="text-align:center;"> sq </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103616 </td>
+   <td style="text-align:center;"> 2103522 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> US </td>
@@ -3258,42 +2761,8 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-15 </td>
-   <td style="text-align:center;"> sq </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103632 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-21 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103681 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-20 </td>
-   <td style="text-align:center;"> SQ </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> semen quality </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Prestage MS </td>
@@ -3382,6 +2851,40 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 1003H </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 1028H </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 2000190 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
@@ -3394,7 +2897,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3411,7 +2914,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3428,7 +2931,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3445,7 +2948,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3462,7 +2965,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3479,7 +2982,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3496,7 +2999,24 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2031958 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3513,7 +3033,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3530,7 +3050,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3547,7 +3067,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3564,7 +3084,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3581,7 +3101,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3598,7 +3118,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3615,7 +3135,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3632,7 +3152,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3649,7 +3169,7 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
@@ -3666,29 +3186,97 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 2103364 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 3057F </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 5324F </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 6953G </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
+   <td style="text-align:center;"> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 7715G </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-26 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPG62 </td>
-   <td style="text-align:center;"> 2091151 </td>
+   <td style="text-align:center;"> 2092355 </td>
    <td style="text-align:center;"> SPG120 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
@@ -3705,25 +3293,8 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPG62 </td>
-   <td style="text-align:center;"> 2100899 </td>
-   <td style="text-align:center;"> SPG110 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPG62 </td>
-   <td style="text-align:center;"> 2101416 </td>
-   <td style="text-align:center;"> SPG110 </td>
+   <td style="text-align:center;"> 2115430 </td>
+   <td style="text-align:center;"> SPG120 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
@@ -3773,59 +3344,28 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2058603 </td>
+   <td style="text-align:center;"> 2063956 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-02-19 </td>
-   <td style="text-align:center;"> semen </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2068835 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2085906 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-02-09 </td>
+   <td style="text-align:center;"> 2024-04-06 </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2089537 </td>
+   <td style="text-align:center;"> 2093110 </td>
    <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -3833,84 +3373,49 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-25 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> 2024-04-08 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2097874 </td>
+   <td style="text-align:center;"> 2105622 </td>
    <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-25 </td>
-   <td style="text-align:center;"> GENETIC MANAGEMENT </td>
+   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> 2024-04-05 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2099637 </td>
+   <td style="text-align:center;"> 2106336 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NC </td>
+   <td style="text-align:center;"> NC </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-05 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2099905 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2099922 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
+   <td style="text-align:center;"> NC </td>
    <td style="text-align:center;"> US </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> 2024-03-22 </td>
+   <td style="text-align:center;"> Legs/Rupture </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2103972 </td>
+   <td style="text-align:center;"> 2106789 </td>
    <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> US </td>
+   <td style="text-align:center;"> US </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
@@ -3919,10 +3424,8 @@ output:
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
    <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> TR </td>
-   <td style="text-align:center;"> 2024-03-19 </td>
-   <td style="text-align:center;"> SEMEN QUALITY </td>
+   <td style="text-align:center;"> 2024-04-06 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
 </tbody>
 </table>
@@ -3951,78 +3454,18 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 32 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 30 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 29 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 49 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 46 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 38 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 34 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
    <td style="text-align:center;"> 28 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4034,8 +3477,68 @@ output:
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
+   <td style="text-align:center;"> MB 7092 </td>
+   <td style="text-align:center;"> 51 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;"> 38 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 42 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 31 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cyclone </td>
+   <td style="text-align:center;"> 32 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
+  </tr>
+  <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 25 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4047,7 +3550,7 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 16 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4059,7 +3562,7 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 70 </td>
+   <td style="text-align:center;"> 61 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4071,7 +3574,7 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 59 </td>
+   <td style="text-align:center;"> 77 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4101,232 +3604,148 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2086469 </td>
+   <td style="text-align:center;"> MB 7092 </td>
+   <td style="text-align:center;"> 2097903 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-07-31 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2099497 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2099503 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2099611 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2099631 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2099762 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2104017 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2104279 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109028 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109030 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109035 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109107 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109157 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 2109162 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-15 </td>
+   <td style="text-align:center;"> 2023-10-09 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2010421 </td>
+   <td style="text-align:center;"> 2116807 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-06-13 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2052948 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-06-13 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2057712 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-09-19 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2063281 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-11-27 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2065086 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-02-13 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2080453 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-05-29 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2080774 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-05-29 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2087003 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-09-04 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2087675 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-07-10 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2087740 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-07-10 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 2098657 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-04 </td>
+   <td style="text-align:center;"> 2024-02-26 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2085025 </td>
+   <td style="text-align:center;"> 2010598 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-05-15 </td>
+   <td style="text-align:center;"> 2022-07-04 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2094034 </td>
+   <td style="text-align:center;"> 2068503 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-10-30 </td>
+   <td style="text-align:center;"> 2023-03-20 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;"> 2105476 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2023-12-26 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2065468 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2023-03-14 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2050818 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-06-02 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2069015 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-12-26 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2069160 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2022-12-26 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2073723 </td>
+   <td style="text-align:center;"> 2074003 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> 2023-03-09 </td>
   </tr>
   <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2105084 </td>
+   <td style="text-align:center;"> SPG910 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109374 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109628 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109781 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cimarron </td>
+   <td style="text-align:center;"> 2109808 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 2103066 </td>
+   <td style="text-align:center;"> 2096335 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2023-09-19 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cyclone </td>
+   <td style="text-align:center;"> 2096709 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2023-09-19 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MBW Cyclone </td>
+   <td style="text-align:center;"> 2103381 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> 2023-11-06 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 2096855 </td>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2097186 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-10-27 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 2096893 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-10-27 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 2079913 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-05-02 </td>
+   <td style="text-align:center;"> 2023-11-13 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2089537 </td>
+   <td style="text-align:center;"> 2054910 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-09-05 </td>
+   <td style="text-align:center;"> 2022-10-25 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2099905 </td>
+   <td style="text-align:center;"> 2105444 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-18 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2103972 </td>
+   <td style="text-align:center;"> 2105719 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2023-12-18 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2106804 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2109544 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2109585 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-01-22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 2116523 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> 2024-02-27 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> SPGVA </td>
+   <td style="text-align:center;"> 58327 </td>
+   <td style="text-align:center;"> PICL92 </td>
+   <td style="text-align:center;"> 2022-12-01 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
@@ -4354,22 +3773,7 @@ output:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2109272 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-22 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 40379 </td>
-   <td style="text-align:center;"> TNLR </td>
-   <td style="text-align:center;"> 2024-01-25 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 2106243 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> 2024-01-02 </td>
+
   </tr>
 </tbody>
 </table>
@@ -4394,32 +3798,32 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 69 </td>
+   <td style="text-align:center;"> 76 </td>
    <td style="text-align:center;"> 38 </td>
-   <td style="text-align:center;"> 2024-03-10 </td>
-   <td style="text-align:center;"> 23 </td>
-   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 2024-04-14 </td>
+   <td style="text-align:center;"> 28 </td>
+   <td style="text-align:center;"> 14 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 43 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 2024-02-25 </td>
-   <td style="text-align:center;"> 19 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 48 </td>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 2024-03-31 </td>
+   <td style="text-align:center;"> 29 </td>
+   <td style="text-align:center;"> 6 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 42 </td>
-   <td style="text-align:center;"> 21 </td>
-   <td style="text-align:center;"> 2024-03-10 </td>
-   <td style="text-align:center;"> 40 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 73 </td>
+   <td style="text-align:center;"> 45 </td>
+   <td style="text-align:center;"> 2024-04-14 </td>
+   <td style="text-align:center;"> 31 </td>
+   <td style="text-align:center;"> 24 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 2024-03-10 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0 </td>
@@ -4434,43 +3838,43 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 64 </td>
-   <td style="text-align:center;"> 38 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 53 </td>
+   <td style="text-align:center;"> 37 </td>
+   <td style="text-align:center;"> 2024-03-31 </td>
+   <td style="text-align:center;"> 46 </td>
+   <td style="text-align:center;"> 34 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 89 </td>
+   <td style="text-align:center;"> 90 </td>
    <td style="text-align:center;"> 47 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 2024-03-31 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 72 </td>
-   <td style="text-align:center;"> 40 </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 80 </td>
+   <td style="text-align:center;"> 49 </td>
+   <td style="text-align:center;"> 2024-04-21 </td>
+   <td style="text-align:center;"> 15 </td>
+   <td style="text-align:center;"> 13 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 73 </td>
-   <td style="text-align:center;"> 38 </td>
-   <td style="text-align:center;"> 2024-03-10 </td>
-   <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 80 </td>
+   <td style="text-align:center;"> 43 </td>
+   <td style="text-align:center;"> 2024-04-14 </td>
+   <td style="text-align:center;"> 35 </td>
+   <td style="text-align:center;"> 24 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 50 </td>
-   <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> 2024-02-25 </td>
-   <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 46 </td>
+   <td style="text-align:center;"> 20 </td>
+   <td style="text-align:center;"> 2024-03-31 </td>
+   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 12 </td>
   </tr>
 </tbody>
 </table>
@@ -4498,18 +3902,18 @@ output:
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 7715G </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> NONWORKING </td>
    <td style="text-align:center;"> 2020-09-06 </td>
-   <td style="text-align:center;"> 69.90 </td>
+   <td style="text-align:center;"> 68.94 </td>
    <td style="text-align:center;"> 1 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 1028H </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> NONWORKING </td>
    <td style="text-align:center;"> 2021-01-03 </td>
-   <td style="text-align:center;"> 72.68 </td>
+   <td style="text-align:center;"> 71.13 </td>
    <td style="text-align:center;"> 2 </td>
   </tr>
   <tr>
@@ -4518,16 +3922,16 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2021-09-12 </td>
-   <td style="text-align:center;"> 72.89 </td>
+   <td style="text-align:center;"> 72.24 </td>
    <td style="text-align:center;"> 3 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 6953G </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> NONWORKING </td>
    <td style="text-align:center;"> 2021-01-03 </td>
-   <td style="text-align:center;"> 75.54 </td>
+   <td style="text-align:center;"> 73.77 </td>
    <td style="text-align:center;"> 4 </td>
   </tr>
   <tr>
@@ -4536,7 +3940,7 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 76.15 </td>
+   <td style="text-align:center;"> 76.20 </td>
    <td style="text-align:center;"> 5 </td>
   </tr>
   <tr>
@@ -4545,7 +3949,7 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2022-04-24 </td>
-   <td style="text-align:center;"> 76.29 </td>
+   <td style="text-align:center;"> 76.53 </td>
    <td style="text-align:center;"> 6 </td>
   </tr>
   <tr>
@@ -4554,7 +3958,7 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2021-12-12 </td>
-   <td style="text-align:center;"> 76.85 </td>
+   <td style="text-align:center;"> 77.14 </td>
    <td style="text-align:center;"> 7 </td>
   </tr>
   <tr>
@@ -4563,7 +3967,7 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-06-18 </td>
-   <td style="text-align:center;"> 78.63 </td>
+   <td style="text-align:center;"> 77.48 </td>
    <td style="text-align:center;"> 8 </td>
   </tr>
   <tr>
@@ -4572,25 +3976,25 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 79.03 </td>
+   <td style="text-align:center;"> 77.57 </td>
    <td style="text-align:center;"> 9 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2081029 </td>
+   <td style="text-align:center;"> 2067521 </td>
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-06-26 </td>
-   <td style="text-align:center;"> 79.11 </td>
+   <td style="text-align:center;"> 2023-01-30 </td>
+   <td style="text-align:center;"> 77.85 </td>
    <td style="text-align:center;"> 10 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059655 </td>
+   <td style="text-align:center;"> MB 7093 </td>
+   <td style="text-align:center;"> 2048154 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> NONWORKING </td>
-   <td style="text-align:center;"> 2022-12-26 </td>
-   <td style="text-align:center;"> 79.38 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2022-08-22 </td>
+   <td style="text-align:center;"> 78.49 </td>
    <td style="text-align:center;"> 11 </td>
   </tr>
   <tr>
@@ -4599,17 +4003,8 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 79.44 </td>
+   <td style="text-align:center;"> 78.62 </td>
    <td style="text-align:center;"> 12 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 2048154 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2022-08-22 </td>
-   <td style="text-align:center;"> 79.67 </td>
-   <td style="text-align:center;"> 13 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
@@ -4617,7 +4012,16 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 79.71 </td>
+   <td style="text-align:center;"> 78.80 </td>
+   <td style="text-align:center;"> 13 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2081029 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-06-26 </td>
+   <td style="text-align:center;"> 79.53 </td>
    <td style="text-align:center;"> 14 </td>
   </tr>
   <tr>
@@ -4626,80 +4030,8 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 80.06 </td>
+   <td style="text-align:center;"> 79.73 </td>
    <td style="text-align:center;"> 15 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2065850 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-04-11 </td>
-   <td style="text-align:center;"> 80.06 </td>
-   <td style="text-align:center;"> 16 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2067521 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 80.11 </td>
-   <td style="text-align:center;"> 17 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2069436 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 80.37 </td>
-   <td style="text-align:center;"> 18 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 2000101 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2021-05-09 </td>
-   <td style="text-align:center;"> 80.72 </td>
-   <td style="text-align:center;"> 19 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 2031720 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2022-04-24 </td>
-   <td style="text-align:center;"> 80.83 </td>
-   <td style="text-align:center;"> 20 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 2085173 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-06-18 </td>
-   <td style="text-align:center;"> 80.90 </td>
-   <td style="text-align:center;"> 21 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2079500 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-04-11 </td>
-   <td style="text-align:center;"> 81.45 </td>
-   <td style="text-align:center;"> 22 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2067580 </td>
-   <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> WORKING </td>
-   <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 81.52 </td>
-   <td style="text-align:center;"> 23 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
@@ -4707,16 +4039,88 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 81.65 </td>
+   <td style="text-align:center;"> 79.85 </td>
+   <td style="text-align:center;"> 16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2031720 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2022-04-24 </td>
+   <td style="text-align:center;"> 79.90 </td>
+   <td style="text-align:center;"> 17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2085173 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-06-18 </td>
+   <td style="text-align:center;"> 80.29 </td>
+   <td style="text-align:center;"> 18 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2067580 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-01-30 </td>
+   <td style="text-align:center;"> 80.38 </td>
+   <td style="text-align:center;"> 19 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2069436 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-01-30 </td>
+   <td style="text-align:center;"> 80.39 </td>
+   <td style="text-align:center;"> 20 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2000101 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2021-05-09 </td>
+   <td style="text-align:center;"> 80.43 </td>
+   <td style="text-align:center;"> 21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 5324F </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> NONWORKING </td>
+   <td style="text-align:center;"> 2020-06-12 </td>
+   <td style="text-align:center;"> 80.48 </td>
+   <td style="text-align:center;"> 22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2065850 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-04-11 </td>
+   <td style="text-align:center;"> 80.83 </td>
+   <td style="text-align:center;"> 23 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> MB 7094 </td>
+   <td style="text-align:center;"> 2069393 </td>
+   <td style="text-align:center;"> SPG240 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2023-01-30 </td>
+   <td style="text-align:center;"> 80.89 </td>
    <td style="text-align:center;"> 24 </td>
   </tr>
   <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 2059068 </td>
+   <td style="text-align:center;"> Skyline Boar Stud </td>
+   <td style="text-align:center;"> 2021111 </td>
    <td style="text-align:center;"> SPG240 </td>
-   <td style="text-align:center;"> NONWORKING </td>
-   <td style="text-align:center;"> 2022-12-26 </td>
-   <td style="text-align:center;"> 81.84 </td>
+   <td style="text-align:center;"> WORKING </td>
+   <td style="text-align:center;"> 2021-12-12 </td>
+   <td style="text-align:center;"> 81.33 </td>
    <td style="text-align:center;"> 25 </td>
   </tr>
   <tr>
@@ -4725,7 +4129,7 @@ output:
    <td style="text-align:center;"> SPG240 </td>
    <td style="text-align:center;"> WORKING </td>
    <td style="text-align:center;"> 2023-01-30 </td>
-   <td style="text-align:center;"> 81.89 </td>
+   <td style="text-align:center;"> 81.43 </td>
    <td style="text-align:center;"> 26 </td>
   </tr>
 </tbody>
@@ -4745,11 +4149,11 @@ output:
    <th style="text-align:center;"> 202332 </th>
    <th style="text-align:center;"> 202333 </th>
    <th style="text-align:center;"> 202335 </th>
-   <th style="text-align:center;"> 202408 </th>
-   <th style="text-align:center;"> 202409 </th>
-   <th style="text-align:center;"> 202410 </th>
-   <th style="text-align:center;"> 202411 </th>
-   <th style="text-align:center;"> 202412 </th>
+   <th style="text-align:center;"> 202413 </th>
+   <th style="text-align:center;"> 202414 </th>
+   <th style="text-align:center;"> 202415 </th>
+   <th style="text-align:center;"> 202416 </th>
+   <th style="text-align:center;"> 202417 </th>
   </tr>
  </thead>
 <tbody>
@@ -4759,11 +4163,11 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 46.21726 </td>
-   <td style="text-align:center;"> 43.55811 </td>
-   <td style="text-align:center;"> 46.10112 </td>
-   <td style="text-align:center;"> 38.67401 </td>
    <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 39.09777 </td>
+   <td style="text-align:center;"> 42.95105 </td>
+   <td style="text-align:center;"> 45.50429 </td>
+   <td style="text-align:center;"> 49.46118 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
@@ -4772,10 +4176,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 45.07991 </td>
-   <td style="text-align:center;"> 47.26175 </td>
-   <td style="text-align:center;"> 43.69661 </td>
-   <td style="text-align:center;"> 42.91986 </td>
+   <td style="text-align:center;"> 44.22607 </td>
+   <td style="text-align:center;"> 46.34423 </td>
+   <td style="text-align:center;"> 46.34738 </td>
+   <td style="text-align:center;"> 46.30081 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
@@ -4783,11 +4187,11 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 46.33958 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 47.15169 </td>
-   <td style="text-align:center;"> 42.62590 </td>
-   <td style="text-align:center;"> 44.01198 </td>
+   <td style="text-align:center;"> 46.06479 </td>
+   <td style="text-align:center;"> 46.04427 </td>
+   <td style="text-align:center;"> 44.81756 </td>
+   <td style="text-align:center;"> 43.46089 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
@@ -4796,10 +4200,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 47.22645 </td>
-   <td style="text-align:center;"> 46.79661 </td>
-   <td style="text-align:center;"> 44.14281 </td>
-   <td style="text-align:center;"> 42.78164 </td>
+   <td style="text-align:center;"> 45.81140 </td>
+   <td style="text-align:center;"> 43.51432 </td>
+   <td style="text-align:center;"> 42.91882 </td>
+   <td style="text-align:center;"> 42.08697 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
@@ -4808,10 +4212,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 46.70628 </td>
-   <td style="text-align:center;"> 48.34310 </td>
-   <td style="text-align:center;"> 43.00279 </td>
-   <td style="text-align:center;"> 43.65378 </td>
+   <td style="text-align:center;"> 45.16491 </td>
+   <td style="text-align:center;"> 51.09469 </td>
+   <td style="text-align:center;"> 45.89898 </td>
+   <td style="text-align:center;"> 43.32350 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
@@ -4819,11 +4223,11 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 45.20923 </td>
-   <td style="text-align:center;"> 42.87197 </td>
-   <td style="text-align:center;"> 50.16889 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 43.22550 </td>
+   <td style="text-align:center;"> 43.29461 </td>
+   <td style="text-align:center;"> 44.49117 </td>
+   <td style="text-align:center;"> 43.62077 </td>
+   <td style="text-align:center;"> 43.35160 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
@@ -4832,10 +4236,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 43.36372 </td>
-   <td style="text-align:center;"> 42.79722 </td>
-   <td style="text-align:center;"> 45.89254 </td>
-   <td style="text-align:center;"> 41.03347 </td>
+   <td style="text-align:center;"> 43.37223 </td>
+   <td style="text-align:center;"> 45.20490 </td>
+   <td style="text-align:center;"> 45.92583 </td>
+   <td style="text-align:center;"> 44.04856 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
@@ -4844,10 +4248,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 44.64485 </td>
-   <td style="text-align:center;"> 51.93718 </td>
-   <td style="text-align:center;"> 44.61418 </td>
-   <td style="text-align:center;"> 45.43700 </td>
+   <td style="text-align:center;"> 47.03775 </td>
+   <td style="text-align:center;"> 49.74419 </td>
+   <td style="text-align:center;"> 45.18954 </td>
+   <td style="text-align:center;"> 44.60500 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
@@ -4856,10 +4260,10 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 43.96526 </td>
-   <td style="text-align:center;"> 43.93411 </td>
-   <td style="text-align:center;"> 41.30212 </td>
-   <td style="text-align:center;"> 44.01198 </td>
+   <td style="text-align:center;"> 42.60441 </td>
+   <td style="text-align:center;"> 45.99296 </td>
+   <td style="text-align:center;"> 44.64996 </td>
+   <td style="text-align:center;"> 44.56003 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPG Farm 62 </td>
@@ -4867,11 +4271,11 @@ output:
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 39.84609 </td>
+   <td style="text-align:center;"> 42.62101 </td>
+   <td style="text-align:center;"> 36.93751 </td>
+   <td style="text-align:center;"> 41.69728 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 45.67061 </td>
-   <td style="text-align:center;"> 43.93606 </td>
-   <td style="text-align:center;"> 43.44353 </td>
-   <td style="text-align:center;"> 47.64227 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPG9644 </td>
@@ -4898,21 +4302,6 @@ output:
  <thead>
   <tr>
    <th style="text-align:center;"> Boar Stud </th>
-   <th style="text-align:center;"> 202325 </th>
-   <th style="text-align:center;"> 202326 </th>
-   <th style="text-align:center;"> 202327 </th>
-   <th style="text-align:center;"> 202328 </th>
-   <th style="text-align:center;"> 202329 </th>
-   <th style="text-align:center;"> 202330 </th>
-   <th style="text-align:center;"> 202331 </th>
-   <th style="text-align:center;"> 202332 </th>
-   <th style="text-align:center;"> 202333 </th>
-   <th style="text-align:center;"> 202334 </th>
-   <th style="text-align:center;"> 202335 </th>
-   <th style="text-align:center;"> 202336 </th>
-   <th style="text-align:center;"> 202337 </th>
-   <th style="text-align:center;"> 202402 </th>
-   <th style="text-align:center;"> 202403 </th>
    <th style="text-align:center;"> 202404 </th>
    <th style="text-align:center;"> 202405 </th>
    <th style="text-align:center;"> 202406 </th>
@@ -4921,90 +4310,51 @@ output:
    <th style="text-align:center;"> 202409 </th>
    <th style="text-align:center;"> 202410 </th>
    <th style="text-align:center;"> 202411 </th>
-   <th style="text-align:center;"> Yearweek </th>
-   <th style="text-align:center;"> Total </th>
-   <th style="text-align:center;"> Submissions </th>
+   <th style="text-align:center;"> 202412 </th>
+   <th style="text-align:center;"> 202413 </th>
+   <th style="text-align:center;"> 202414 </th>
+   <th style="text-align:center;"> 202415 </th>
+   <th style="text-align:center;"> 202416 </th>
    <th style="text-align:center;"> 13 Week Average </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:center;"> Askin </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 100.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Cimarron </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100.0 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 100.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Cyclone </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5013,28 +4363,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 66.7 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 97.6 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 97.4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Deercroft </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5043,28 +4380,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 66.7 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 97.4 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 97.4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Laurel Hill </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5073,58 +4397,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 97.4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Macon Bacon </td>
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;background-color: limegreen !important;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 202337 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
    <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 97.4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Robersonville </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5133,28 +4414,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 97.4 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 98.7 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 75.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5163,28 +4431,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 97.7 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 97.8 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPG NC </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: red !important;"> 100.0 </td>
-   <td style="text-align:center;"> 66.7 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 33.3 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5193,28 +4448,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 92.3 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 66.7 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: red !important;"> 92.3 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPG VA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 66.7 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5223,28 +4465,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 97.4 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Williamston </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 83.3 </td>
    <td style="text-align:center;"> 83.3 </td>
    <td style="text-align:center;"> 83.3 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5253,28 +4482,15 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 96.2 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 97.4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Yuma </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;background-color: limegreen !important;"> 100.0 </td>
-   <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
@@ -5283,10 +4499,12 @@ output:
    <td style="text-align:center;"> 100 </td>
    <td style="text-align:center;"> 100.0 </td>
    <td style="text-align:center;"> 100 </td>
-   <td style="text-align:center;"> 202411 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;"> 50 </td>
    <td style="text-align:center;"> 100.0 </td>
+   <td style="text-align:center;"> 100 </td>
+   <td style="text-align:center;background-color: limegreen !important;"> 96.2 </td>
   </tr>
 </tbody>
 </table>
@@ -5309,69 +4527,69 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 22 </td>
+   <td style="text-align:center;"> 24 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 29 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 28 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 6 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 56 </td>
+   <td style="text-align:center;"> 58 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 51 </td>
+   <td style="text-align:center;"> 47 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 32 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 42 </td>
+   <td style="text-align:center;"> 38 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 30 </td>
+   <td style="text-align:center;"> 27 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 32 </td>
+   <td style="text-align:center;"> 35 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 30 </td>
+   <td style="text-align:center;"> 31 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 18 </td>
+   <td style="text-align:center;"> 19 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 16 </td>
+   <td style="text-align:center;"> 15 </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 54 </td>
-   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 39 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 0 </td>
   </tr>
 </tbody>
 </table>
@@ -5397,102 +4615,102 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 176 </td>
-   <td style="text-align:center;"> 0.183 </td>
-   <td style="text-align:center;"> 0.058 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 2.273 </td>
+   <td style="text-align:center;"> 183 </td>
+   <td style="text-align:center;"> 0.185 </td>
+   <td style="text-align:center;"> 0.064 </td>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 5.464 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 172 </td>
-   <td style="text-align:center;"> 0.157 </td>
-   <td style="text-align:center;"> 0.073 </td>
-   <td style="text-align:center;"> 21 </td>
+   <td style="text-align:center;"> 178 </td>
+   <td style="text-align:center;"> 0.167 </td>
+   <td style="text-align:center;"> 0.057 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 12.209 </td>
+   <td style="text-align:center;"> 5.618 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 446 </td>
-   <td style="text-align:center;"> 0.163 </td>
-   <td style="text-align:center;"> 0.057 </td>
-   <td style="text-align:center;"> 22 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 5.381 </td>
+   <td style="text-align:center;"> 399 </td>
+   <td style="text-align:center;"> 0.168 </td>
+   <td style="text-align:center;"> 0.045 </td>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 1.504 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 392 </td>
-   <td style="text-align:center;"> 0.187 </td>
-   <td style="text-align:center;"> 0.064 </td>
-   <td style="text-align:center;"> 16 </td>
-   <td style="text-align:center;"> 7 </td>
-   <td style="text-align:center;"> 5.867 </td>
+   <td style="text-align:center;"> 407 </td>
+   <td style="text-align:center;"> 0.197 </td>
+   <td style="text-align:center;"> 0.054 </td>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 0 </td>
+   <td style="text-align:center;"> 2.703 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 389 </td>
-   <td style="text-align:center;"> 0.487 </td>
-   <td style="text-align:center;"> 4.644 </td>
-   <td style="text-align:center;"> 34 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 9.254 </td>
+   <td style="text-align:center;"> 388 </td>
+   <td style="text-align:center;"> 0.161 </td>
+   <td style="text-align:center;"> 0.055 </td>
+   <td style="text-align:center;"> 19 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5.155 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 335 </td>
-   <td style="text-align:center;"> 0.128 </td>
-   <td style="text-align:center;"> 0.053 </td>
-   <td style="text-align:center;"> 32 </td>
+   <td style="text-align:center;"> 286 </td>
+   <td style="text-align:center;"> 0.138 </td>
+   <td style="text-align:center;"> 0.044 </td>
+   <td style="text-align:center;"> 10 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 9.552 </td>
+   <td style="text-align:center;"> 3.497 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 242 </td>
-   <td style="text-align:center;"> 0.168 </td>
-   <td style="text-align:center;"> 0.045 </td>
+   <td style="text-align:center;"> 273 </td>
+   <td style="text-align:center;"> 0.165 </td>
+   <td style="text-align:center;"> 0.043 </td>
    <td style="text-align:center;"> 7 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 2.893 </td>
+   <td style="text-align:center;"> 2.564 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 154 </td>
-   <td style="text-align:center;"> 0.163 </td>
-   <td style="text-align:center;"> 0.065 </td>
-   <td style="text-align:center;"> 17 </td>
-   <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 11.039 </td>
+   <td style="text-align:center;"> 153 </td>
+   <td style="text-align:center;"> 1.984 </td>
+   <td style="text-align:center;"> 22.624 </td>
+   <td style="text-align:center;"> 23 </td>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 15.686 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 244 </td>
-   <td style="text-align:center;"> 0.118 </td>
-   <td style="text-align:center;"> 0.052 </td>
-   <td style="text-align:center;"> 35 </td>
+   <td style="text-align:center;"> 234 </td>
+   <td style="text-align:center;"> 0.119 </td>
+   <td style="text-align:center;"> 0.054 </td>
+   <td style="text-align:center;"> 33 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 14.344 </td>
+   <td style="text-align:center;"> 14.103 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 175 </td>
-   <td style="text-align:center;"> 0.228 </td>
-   <td style="text-align:center;"> 0.055 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 144 </td>
+   <td style="text-align:center;"> 0.240 </td>
+   <td style="text-align:center;"> 0.044 </td>
+   <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 2.286 </td>
+   <td style="text-align:center;"> 0.694 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 264 </td>
+   <td style="text-align:center;"> 263 </td>
    <td style="text-align:center;"> 0.156 </td>
-   <td style="text-align:center;"> 0.074 </td>
-   <td style="text-align:center;"> 34 </td>
+   <td style="text-align:center;"> 0.052 </td>
+   <td style="text-align:center;"> 12 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 12.879 </td>
+   <td style="text-align:center;"> 4.563 </td>
   </tr>
 </tbody>
 </table>
@@ -5520,36 +4738,36 @@ output:
 <tbody>
   <tr>
    <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 7.47 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> 7.47 </td>
    <td style="text-align:center;"> 7.47 </td>
    <td style="text-align:center;"> 7.47 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 7.47 </td>
+   <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 7.42 </td>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 7.44 </td>
    <td style="text-align:center;"> 7.3 </td>
-   <td style="text-align:center;"> 7.42 </td>
+   <td style="text-align:center;"> 7.44 </td>
    <td style="text-align:center;"> 7.30 </td>
    <td style="text-align:center;"> 7.41 </td>
    <td style="text-align:center;"> 7.3 </td>
-   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 7.3 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7092 </td>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 8.00 </td>
-   <td style="text-align:center;"> 8.7 </td>
-   <td style="text-align:center;"> 8.80 </td>
-   <td style="text-align:center;"> 8.80 </td>
-   <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> 8.70 </td>
+   <td style="text-align:center;"> 9.1 </td>
+   <td style="text-align:center;"> 9.08 </td>
+   <td style="text-align:center;"> 8.70 </td>
+   <td style="text-align:center;"> 8.70 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 9.1 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7093 </td>
@@ -5560,7 +4778,7 @@ output:
    <td style="text-align:center;"> 7.00 </td>
    <td style="text-align:center;"> 7.00 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 7.00 </td>
+   <td style="text-align:center;"> 7.0 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MB 7094 </td>
@@ -5575,33 +4793,33 @@ output:
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 6 </td>
    <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> 4.5 </td>
-   <td style="text-align:center;"> 4.50 </td>
+   <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> 4.5 </td>
-   <td style="text-align:center;"> 4.50 </td>
+   <td style="text-align:center;"> 4.5 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Cyclone </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 6.57 </td>
+   <td style="text-align:center;"> 7.30 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 7.02 </td>
-   <td style="text-align:center;"> 6.80 </td>
-   <td style="text-align:center;"> 6.48 </td>
+   <td style="text-align:center;"> 7.30 </td>
+   <td style="text-align:center;"> 7.30 </td>
+   <td style="text-align:center;"> 7.30 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 4.4 </td>
+   <td style="text-align:center;"> 4 </td>
    <td style="text-align:center;"> 4.40 </td>
-   <td style="text-align:center;"> 4.30 </td>
+   <td style="text-align:center;"> 4.4 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
@@ -5609,22 +4827,22 @@ output:
   <tr>
    <td style="text-align:center;"> Skyline Boar Stud </td>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 6.60 </td>
+   <td style="text-align:center;"> 6.88 </td>
    <td style="text-align:center;"> NA </td>
-   <td style="text-align:center;"> 6.60 </td>
-   <td style="text-align:center;"> 6.30 </td>
-   <td style="text-align:center;"> 6.30 </td>
+   <td style="text-align:center;"> 6.90 </td>
+   <td style="text-align:center;"> 6.90 </td>
+   <td style="text-align:center;"> 6.90 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
   </tr>
   <tr>
    <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 7.69 </td>
-   <td style="text-align:center;"> 7.7 </td>
-   <td style="text-align:center;"> 7.70 </td>
-   <td style="text-align:center;"> 7.41 </td>
-   <td style="text-align:center;"> 7.40 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 7.30 </td>
+   <td style="text-align:center;"> 7.3 </td>
+   <td style="text-align:center;"> 7.80 </td>
+   <td style="text-align:center;"> NA </td>
+   <td style="text-align:center;"> 7.52 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> NA </td>
   </tr>
@@ -5633,132 +4851,11 @@ output:
    <td style="text-align:center;"> 5 </td>
    <td style="text-align:center;"> 5.90 </td>
    <td style="text-align:center;"> 5.9 </td>
-   <td style="text-align:center;"> 5.90 </td>
+   <td style="text-align:center;"> 5.72 </td>
    <td style="text-align:center;"> NA </td>
    <td style="text-align:center;"> 5.90 </td>
    <td style="text-align:center;"> 5.9 </td>
    <td style="text-align:center;"> NA </td>
-  </tr>
-</tbody>
-</table>
-
-<br>
-<br>
-<br>
-
-<h1>Hours/Boar/Week</h1>
-
-<table class="table" style="font-size: 14px; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;"> Boar Stud </th>
-   <th style="text-align:center;"> 2023-02-05 </th>
-   <th style="text-align:center;"> 2023-02-19 </th>
-   <th style="text-align:center;"> 2023-03-05 </th>
-   <th style="text-align:center;"> 2023-03-19 </th>
-   <th style="text-align:center;"> 2023-04-02 </th>
-   <th style="text-align:center;"> 2023-04-16 </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> MB 7081 </td>
-   <td style="text-align:center;"> 1.14 </td>
-   <td style="text-align:center;"> 1.20 </td>
-   <td style="text-align:center;"> 1.05 </td>
-   <td style="text-align:center;"> 1.16 </td>
-   <td style="text-align:center;"> 1.03 </td>
-   <td style="text-align:center;"> 1.97 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7082 </td>
-   <td style="text-align:center;"> 1.24 </td>
-   <td style="text-align:center;"> 1.22 </td>
-   <td style="text-align:center;"> 1.23 </td>
-   <td style="text-align:center;"> 1.07 </td>
-   <td style="text-align:center;"> 1.09 </td>
-   <td style="text-align:center;"> 2.26 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7092 </td>
-   <td style="text-align:center;"> 1.36 </td>
-   <td style="text-align:center;"> 1.30 </td>
-   <td style="text-align:center;"> 1.15 </td>
-   <td style="text-align:center;"> 1.18 </td>
-   <td style="text-align:center;"> 1.34 </td>
-   <td style="text-align:center;"> 2.68 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7093 </td>
-   <td style="text-align:center;"> 1.21 </td>
-   <td style="text-align:center;"> 1.24 </td>
-   <td style="text-align:center;"> 1.32 </td>
-   <td style="text-align:center;"> 1.28 </td>
-   <td style="text-align:center;"> 1.17 </td>
-   <td style="text-align:center;"> 2.33 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MB 7094 </td>
-   <td style="text-align:center;"> 2.53 </td>
-   <td style="text-align:center;"> 1.46 </td>
-   <td style="text-align:center;"> 1.32 </td>
-   <td style="text-align:center;"> 1.23 </td>
-   <td style="text-align:center;"> 1.16 </td>
-   <td style="text-align:center;"> 2.59 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cimarron </td>
-   <td style="text-align:center;"> 1.42 </td>
-   <td style="text-align:center;"> 1.42 </td>
-   <td style="text-align:center;"> 1.45 </td>
-   <td style="text-align:center;"> 1.14 </td>
-   <td style="text-align:center;"> 1.06 </td>
-   <td style="text-align:center;"> 2.25 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Cyclone </td>
-   <td style="text-align:center;"> 1.30 </td>
-   <td style="text-align:center;"> 1.04 </td>
-   <td style="text-align:center;"> 0.99 </td>
-   <td style="text-align:center;"> 0.96 </td>
-   <td style="text-align:center;"> 1.02 </td>
-   <td style="text-align:center;"> 2.26 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> MBW Yuma </td>
-   <td style="text-align:center;"> 1.38 </td>
-   <td style="text-align:center;"> 1.43 </td>
-   <td style="text-align:center;"> 1.27 </td>
-   <td style="text-align:center;"> 1.21 </td>
-   <td style="text-align:center;"> 1.27 </td>
-   <td style="text-align:center;"> 2.56 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> Skyline Boar Stud </td>
-   <td style="text-align:center;"> 1.27 </td>
-   <td style="text-align:center;"> 1.19 </td>
-   <td style="text-align:center;"> 1.23 </td>
-   <td style="text-align:center;"> 1.28 </td>
-   <td style="text-align:center;"> 1.46 </td>
-   <td style="text-align:center;"> 2.26 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGNC </td>
-   <td style="text-align:center;"> 0.93 </td>
-   <td style="text-align:center;"> 0.93 </td>
-   <td style="text-align:center;"> 0.97 </td>
-   <td style="text-align:center;"> 0.78 </td>
-   <td style="text-align:center;"> 0.67 </td>
-   <td style="text-align:center;"> 1.37 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> SPGVA </td>
-   <td style="text-align:center;"> 0.54 </td>
-   <td style="text-align:center;"> 1.17 </td>
-   <td style="text-align:center;"> 0.85 </td>
-   <td style="text-align:center;"> 0.86 </td>
-   <td style="text-align:center;"> 0.92 </td>
-   <td style="text-align:center;"> 1.88 </td>
   </tr>
 </tbody>
 </table>
